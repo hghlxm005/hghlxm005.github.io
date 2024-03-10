@@ -500,6 +500,7 @@ CHC家庭影院,http://129.226.149.79:4785/html/freetest.php?access_token=test12
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京IPTV淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+北京IPTV淘精彩,http://114.246.174.75:4022/rtp/239.3.1.178:8001
 北京IPTV淘娱乐,https://epg.pw/stream/38656ad8339111cee7e54f8e04ab6ff7aac5cf126685319a1e4b17fd35747c08.ctv
 北京IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
 北京IPTV淘电影,https://epg.pw/stream/0163d007c5f88cc778ce4b753afb81eb14f6ed35db2f1fb8f04b72b08a46eec4.ctv
@@ -509,6 +510,7 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 北京IPTV淘剧场,https://epg.pw/stream/6a4d00df7e820e3e344d3fbf0323a207c5e3e2560b1f7cd7a6fc3fd46fa0cd8f.ctv
 北京IPTV淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
 北京IPTV淘萌宠,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+北京IPTV淘萌宠,http://114.246.174.75:4022/udp/239.3.1.102:8001
 国内科幻,http://tvcs.xfcs.ltd/yy/1354936170
 和超炫科幻大片,http://tvcs.xfcs.ltd/yy/1382736840
 小鬼点播,http://tvcs.xfcs.ltd/douyu/3928
