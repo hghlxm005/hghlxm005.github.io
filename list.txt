@@ -1417,7 +1417,15 @@ iHOT爱院ipv6,http://[2409:8087:7001:20:1000::95]:6610/000000001000/60000000060
 平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
+实验,https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
+30,https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
+48,https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
+53,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
+74,https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
+76,https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
+102,https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
+154,https://stream.ads.ottera.tv/playlist.m3u8?network_id=154
+181,https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 📡港澳电视台,#genre#
