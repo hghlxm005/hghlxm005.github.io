@@ -1658,62 +1658,6 @@ iHOT爱院ipv6,http://[2409:8087:7001:20:1000::95]:6610/000000001000/60000000060
 
 
 
-📡极速港澳台,#genre#
-凤凰卫视中文台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=1
-#凤凰卫视资讯台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=2
-#香港有线新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=3
-#香港有线18台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=4
-#TVB无线新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=6
-#TVB财经体育资讯台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=7
-#TVB翡翠台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=8
-#TVB明珠台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=10
-#TVB J2,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=11
-#TVB星河,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=12
-#ViuTV,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=13
-#ViuTV6,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=14
-#NOW新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=15
-#香港国际财经台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=16
-#HOY TV,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=17
-#HOY资讯台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=18
-#港台电视31,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=19
-#港台电视32,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=20
-#中天新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=21
-#东森新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=22
-#东森财经新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=23
-#寰宇新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=24
-#寰宇新闻台湾台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=25
-#台视新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=26
-#中视新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=27
-#华视新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=28
-#TVBS新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=29
-#三立新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=30
-#三立iNEWS,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=31
-#镜电视新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=32
-#壹新闻,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=33
-#公视新闻,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=34
-#民视新闻台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=35
-#民视,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=36
-#台视,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=37
-#中视,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=38
-#华视,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=39
-#TVBS HD,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=40
-#TVBS欢乐台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=41
-#中天亚洲台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=42
-#纬来体育台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=43
-#纬来日本台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=44
-#纬来育乐台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=45
-#ELEVEN 1,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=46
-#ELEVEN 2,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=47
-#爱尔达体育1台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=48
-#爱尔达体育2台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=49
-#爱尔达体育3台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=50
-#NBA TV,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=51
-#MOMO综合台,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=52
-#HBO,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=54
-#CNN新闻频道,http://iptv.666888999.gay/iptvtlpd.php?key=3d43c91119e9c75baceb984cbc0b7807&id=55
-
-
-
 
 
 
