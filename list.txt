@@ -1661,6 +1661,9 @@ iHOT爱院ipv6,http://[2409:8087:7001:20:1000::95]:6610/000000001000/60000000060
 
 
 
+
+
+
 📡港澳电视台,#genre#
 星空卫视,http://118.112.192.158:4022/udp/239.93.0.156:2193
 澳门莲花,http://live.xfcs.ltd/omtv.php
@@ -2774,40 +2777,163 @@ beIN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
 「河南」禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 「河南」禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
 「河南」禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
-「河南」宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
-「河南」郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
-「河南」焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
-「河南」焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
-「河南」焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
-「河南」睛彩焦作频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
-「河南」济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
-「河南」荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-「河南」嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
-「河南」宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
-「河南」温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-「河南」方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-「河南」卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
-「河南」济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
-「河南」荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-「河南」嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
-「河南」嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhend
-「河南」新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
-「河南」方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-「河南」桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?zhend
-「河南」唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
-「河南」新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
-「河南」扶沟综合频道,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
-「河南」鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
-「河南」西华综合频道,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
-「河南」新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
-「河南」卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
-「河南」灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
-「河南」滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
-「河南」内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
-「河南」禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
-「河南」禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
-「河南」禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
-
+登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
+登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+封丘新闻综合,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+封丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+扶沟综合,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+巩义新闻综合,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+固始综合,http://live.dxhmt.cn:9081/tv/11525-1.m3u8
+固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+光山综合,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
+光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+鹤岗新闻综合,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+滑县新闻,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+潢川综合,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
+潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+辉县新闻综合,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+辉县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
+获嘉综合,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+郏县综合,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+焦作教育,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+焦作教育,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
+焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+睛彩焦作,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+睛彩焦作,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
+兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+林州综合,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
+临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+卢氏综合,http://live.dxhmt.cn:9081/tv/11224-1.m3u8
+卢氏综合,http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+鲁山综合,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+鲁山综合,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
+鹿邑新闻,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
+鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+栾川新闻,http://wshls.live.migucloud.com/live/LVVUJGFD_C0/playlist.m3u8
+罗山综合,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+罗山综合,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+孟津新闻,http://live.dxhmt.cn:9081/tv/10322-2.m3u8
+孟津新闻,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
+孟州综合,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+孟州综合,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
+泌阳新闻综合,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+渑池新闻综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+南乐综合,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
+南乐综合,http://tvpull.dxhmt.cn:9081/tv/10923-1.m3u8
+内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+内乡综合,http://live.dxhmt.cn:9081/tv/11325-1.m3u8
+内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
+平舆综合,http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+平舆综合,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+濮阳县电视台,http://zhpull.dxhmt.cn/puyangxian/0779dbf4086a455fa1f36e3d56740a41/playlist.m3u8
+淇县电视台,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+杞县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+杞县新闻综合,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
+沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+沁阳新闻综合,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+汝阳综合,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+汝阳综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+汝州科教,http://live.dxhmt.cn:9081/tv/10482-2.m3u8
+汝州科教,http://tvpull.dxhmt.cn:9081/tv/10482-2.m3u8
+汝州新闻,http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+汝州新闻,http://tvpull.dxhmt.cn:9081/tv/10482-1.m3u8
+商城新闻,http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8
+商城新闻,http://live.dxhmt.cn:9081/tv/11524-1.m3u8
+上蔡综合,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+上蔡综合,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+上街电视台,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+上街电视台,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
+社旗综合,http://live.dxhmt.cn:9081/tv/11327-1.m3u8
+社旗综合,http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
+沈丘新闻综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+沈丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
+嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+嵩县综合新闻,http://live.dxhmt.cn:9081/tv/10325-1.m3u8
+太康综合,http://live.dxhmt.cn:9081/tv/11627-1.m3u8
+太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
+汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+通许综合,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+通许综合,http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
+桐柏新闻综合,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
+桐柏新闻综合,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
+卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+卫辉综合,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
+尉氏综合,http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
+尉氏综合,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+温县综合,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+武陟新闻综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+武陟新闻综合,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
+舞钢新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+舞阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+舞阳新闻综合,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
+西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+西华综合,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
+西平综合,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
+西平综合,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
+淅川电视,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+项城新闻,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
+项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+新安新闻综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
+新蔡综合,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+新密新闻,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
+新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+新县综合,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+新乡县电视台,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+新郑综合,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+新郑综合,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+鄢陵综合,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+延津综合,http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
+延津综合,http://live.dxhmt.cn:9081/tv/10726-1.m3u8
+偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
+偃师新闻,http://live.dxhmt.cn:9081/tv/10381-1.m3u8
+伊川电视台,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
+宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+宜阳综合,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
+义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+义马新闻综合,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8
+禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+原阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+原阳新闻综合,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+长垣综合,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+镇平新闻综合,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+镇平新闻综合,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
+驻马店公共,http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
+驻马店科教,http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
+驻马店新闻综合,http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
+建安综合,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
+开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
 
 
 📡黑龙江,#genre#
@@ -4476,6 +4602,25 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0
 
 
 电影轮播,#genre#
+埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv
+埋堆堆2,http://cfss.cc/cdn/hy/23735126.flv
+埋堆堆3,http://cfss.cc/cdn/hy/23865152.flv
+埋堆堆4,http://cfss.cc/cdn/hy/23903196.flv
+埋堆堆5,http://cfss.cc/cdn/hy/23740156.flv
+埋堆堆6,http://cfss.cc/cdn/hy/23728660.flv
+埋堆堆7,http://cfss.cc/cdn/hy/23865058.flv
+埋堆堆8,http://cfss.cc/cdn/hy/23734183.flv
+埋堆堆9,http://cfss.cc/cdn/hy/23865036.flv
+埋堆堆10,http://cfss.cc/cdn/hy/23734246.flv
+埋堆堆11,http://cfss.cc/cdn/hy/23863796.flv
+埋堆堆12,http://cfss.cc/cdn/hy/23749083.flv
+埋堆堆13,http://cfss.cc/cdn/hy/23824164.flv
+埋堆堆14,http://cfss.cc/cdn/hy/23863804.flv
+埋堆堆15,http://cfss.cc/cdn/hy/23865142.flv
+埋堆堆16,http://cfss.cc/cdn/hy/23903183.flv
+埋堆堆17,http://cfss.cc/cdn/hy/23903130.flv
+埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv
+埋堆堆19,http://cfss.cc/cdn/hy/23728674.flv
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
@@ -4527,34 +4672,6 @@ SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/i
 SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8 
 SiTV全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8 
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-3 D,#genre#
-变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
-变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
-大片3D,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
-裸眼3D,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
-裸眼3D2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
-生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-3D电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
-3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
-3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
-艺术科技感,https://vd3.bdstatic.com/mda-ncrw9pciw60jymyd/sc/cae_h264_delogo/1648329992682771558/mda-ncrw9pciw60jymyd.mp4
-视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
-功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
-3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
-3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
-3D2,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
-混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
-长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
-龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
-终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
-AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
-东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
-轮播,#genre#
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 吃米滴虫,http://159.75.85.63:35455/douyu/315457
 冰冰经典,http://159.75.85.63:35455/douyu/74374
@@ -4587,19 +4704,6 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 欧美大片,http://159.75.85.63:35455/douyu/2793084
 贝爷影厅,http://159.75.85.63:35455/douyu/252802
 译制国语,http://159.75.85.63:35455/douyu/2436390
-新闻,#genre#
-壹新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-非凡新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
-三立新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-TVBS新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
-年代新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
-东森新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
-台视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
-民视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
-
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -4674,29 +4778,6 @@ TVBS新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodsz
 电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
 电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
-解说_电影狂人,http://cfss.cc/cdn/hy/18715610.flv
-解说_鹿哥电影,http://cfss.cc/cdn/hy/24396360.flv
-解说_斌哥漫说,http://cfss.cc/cdn/hy/18632116.flv
-解说_小川侃电影,http://cfss.cc/cdn/hy/15870999.flv
-解说_阿钙扒瞎,http://cfss.cc/cdn/hy/15978172.flv
-解说_阿良说剧,http://cfss.cc/cdn/hy/20488841.flv
-解说_鱼丸电影,http://cfss.cc/cdn/hy/16615910.flv
-解说_阿斗说电影,http://cfss.cc/cdn/hy/13303478.flv
-解说_扁豆看电影,http://cfss.cc/cdn/hy/16028551.flv
-解说_乌贼说电影,http://cfss.cc/cdn/hy/16604522.flv
-解说_大象放映室,http://cfss.cc/cdn/hy/21277391.flv
-解说_科幻梦工场,http://cfss.cc/cdn/hy/15152155.flv
-解说_亮哥讲电影,http://cfss.cc/cdn/hy/16144175.flv
-解说_越哥说电影,http://cfss.cc/cdn/hy/15894162.flv
-解说_小冉看电影,http://cfss.cc/cdn/hy/17341907.flv
-解说_虎妞说电影,http://cfss.cc/cdn/hy/20343144.flv
-解说_涵哥评电影,http://cfss.cc/cdn/hy/16865726.flv
-解说_老皮讲电影,http://cfss.cc/cdn/hy/16968572.flv
-解说_默爷侃电影,http://cfss.cc/cdn/hy/17204307.flv
-解说_冷君说电影,http://cfss.cc/cdn/hy/16739452.flv
-解说_刘老师说电影,http://cfss.cc/cdn/hy/20289754.flv
-解说_恐怖电影解说,http://cfss.cc/cdn/hy/16741179.flv
 剧集_老三国,http://cfss.cc/cdn/hy/11602081.flv
 剧集_新三国,http://cfss.cc/cdn/hy/11352944.flv
 剧集_新水浒,http://cfss.cc/cdn/hy/11342384.flv
@@ -4707,6 +4788,83 @@ TVBS新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodsz
 剧集_家有儿女,http://cfss.cc/cdn/hy/11352872.flv
 剧集_武林外传,http://cfss.cc/cdn/hy/21059598.flv
 爱情公寓,http://epg.112114.xyz/douyu/6863367
+电影_八点档,http://cfss.cc/cdn/hy/880261.flv
+电影_超异能族,http://cfss.cc/cdn/hy/21059586.flv
+电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
+电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
+电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
+电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
+电影_丧尸片,http://cfss.cc/cdn/hy//21059578.flv
+电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
+电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
+电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
+电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
+电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
+电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
+电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
+电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
+电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
+电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
+电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
+电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
+电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
+电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
+电影_许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
+电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
+电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
+电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
+电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
+电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
+电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
+电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
+剧集_老三国,http://cfss.cc/cdn/hy/11602081.flv
+剧集_新三国,http://cfss.cc/cdn/hy/11352944.flv
+剧集_新水浒,http://cfss.cc/cdn/hy/11342384.flv
+剧集_纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
+剧集_庆余年,http://cfss.cc/cdn/hy/11352960.flv
+剧集_雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
+剧集_士兵突击,http://cfss.cc/cdn/hy/11342430.flv
+剧集_爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
+剧集_武林外传,http://cfss.cc/cdn/hy/21059598.flv
+剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.flv
+剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.flv
+搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+
+
+3 D,#genre#
+变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
+变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
+大片3D,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
+裸眼3D,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
+裸眼3D2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
+生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
+3D电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
+3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
+3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
+艺术科技感,https://vd3.bdstatic.com/mda-ncrw9pciw60jymyd/sc/cae_h264_delogo/1648329992682771558/mda-ncrw9pciw60jymyd.mp4
+视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
+功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
+3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
+3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
+3D2,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
+混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
+X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
+长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
+龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
+终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
+AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
+Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
+东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+
+
+
 
 
 少儿影院,#genre#
@@ -11322,630 +11480,6 @@ TWINS-神奇两女侠(演唱会),http://em.21dtv.com/songs/60038485.mkv
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 
 
-
-
-测试,#genre#
-翡翠台HD,p3p://108.181.32.169:55113/6533f5c20003762b2cfef1ac322c6404.ts
-翡翠台,p3p://108.181.32.169:55113/6533f6560002787f2d01338b57197695.ts
-华丽台,p3p://108.181.32.169:55113/6533f6f8000f2ebd2d03af9d53e46544.ts
-无线新闻台,p3p://108.181.32.169:55113/6533fd5600043bdb2d1c8c0729c35d0c.ts
-TVB明珠台Pearl,p3p://108.181.32.169:55113/64100a2a0003a57f9801a86d6b050a59
-TVB星河粤语,p3p://108.181.32.169:55113/641021c50003c5af985dddf037af353c
-TVB星河国语,p3p://108.181.32.169:55113/641021e900026b0f985e6a374d7d56bb
-TVB功夫台,p3p://108.181.32.169:55113/6411291b0004b01b9c62861646d00929
-TVB娱乐新闻台,p3p://108.181.32.169:55113/64102219000c6f74985f28485a5a5799
-TVB J2,p3p://108.181.32.169:55113/641021800006a527985cd1244315142d
-TVB经典台,p3p://108.181.32.169:55113/6410219e0000704b985d44bd2a501d47
-TVB爆谷台,p3p://108.181.32.169:55113/641af90c000328bac2b691f11db2274a
-TVB星影台,p3p://108.181.32.169:55113/641af926000cc2b9c2b6f9f75c8d2b97
-電影一台,p3p://108.181.32.169:55113/6410224e00097a01985ff68e53d22e70
-VIU TV,p3p://108.181.32.169:55113/641021400008eb86985bd7b90b510a5b
-VIU six,p3p://108.181.32.169:55113/6410215d000ad4ca985c497e192b3552
-RHK 31,p3p://108.181.32.169:55113/64101f330006ab429853d45f7940453b
-RHK 32,p3p://108.181.32.169:55113/641020b00001b8599859a360613572d7
-HOY咨询台,p3p://108.181.32.169:55113/64100a4d0003fbac9802313b0c8b4f3f
-HOY咨询台(b),p3p://108.181.32.169:55113/6427e50e0008e093f53042b347a45e2f
-有線體育台,p3p://108.181.32.169:55113/64100a6b000527e19802a6b80be147fa
-有線耀才财经,p3p://108.181.32.169:55113/64102268000ecb1f98605d7b0a602bf4	
-有線603跑马,p3p://108.181.32.169:55113/64100253000d483097e30b0629d25344
-有線18台跑马,p3p://108.181.32.169:55113/641002ab000aa8ea97e4621a4f8c0b83
-CH288跑马,p3p://108.181.32.169:55113/641002df0003eab597e52b80616d018d
-CH289跑马,p3p://108.181.32.169:55113/641002f7000a790097e58aee1e6e4196
-無線新聞台,p3p://108.181.32.169:55113/64100a940006c6399803474b6281105f
-無線新聞台(b),p3p://108.181.32.169:55113/641010d400018818981bafed68b74c1b
-無線財經台,p3p://108.181.32.169:55113/64100aec000c7bc59804a081537730cb
-NOW财经台,p3p://108.181.32.169:55113/641020d00004bf91985a212731011c3c
-NOW直播台,p3p://108.181.32.169:55113/6417e77b0007feb1b6b9f4ca25bc6e04
-NOW新闻台,p3p://108.181.32.169:55113/6410254c0006df63986ba60f292a7500
-NOW体育台,p3p://108.181.32.169:55113/6410211d00048968985b4de16d6e5b6a
-NOWsports1,p3p://108.181.32.169:55113/64d74ca40007202e223d927267473868.ts
-NOWsports1,p3p://108.181.32.169:55113/643361f20007b9a9220fabfc3001244e.ts
-Nowsports 2,p3p://108.181.32.169:55113/643362090006b031221005903b883d07
-Nowsports 3,p3p://108.181.32.169:55113/6433621d000d9c3522105573223958e1
-NOWsports 4,p3p://108.181.32.169:55113/6437999f00025f983289265f38ef3722.ts
-NOWsports 5,p3p://108.181.32.169:55113/643799aa000e7bac3289547135e05a80.ts
-NOWsports 6,p3p://108.181.32.169:55113/643799bb00044f193289943e2e5f6ac1.ts
-NOWsports 7,p3p://108.181.32.169:55113/643799ca000a29a43289d0542d57262c.ts
-NOWsports1  4K,p3p://108.181.32.169:55113/64d74cb1000cc276223dc6ac654a2299.ts
-NOW英超(粤),p3p://108.181.32.169:55113/64d74ca40007202e223d927267473868.ts
-NOW英超(英),p3p://108.181.32.169:55113/64d74cf7000556f0223ed6366e5f689a.ts
-星空卫视,p3p://108.181.32.169:55113/64102283000b474e9860c60d1e264899
-爆谷台(c),p3p://108.181.32.169:55113/641022f9000772dd9862920216c85f6a
-HBO,p3p://108.181.32.169:55113/64137f0b0006a17fa58238155813216c
-HBO家庭,p3p://108.181.32.169:55113/64137f3c000d4a86a582f93235111bc5
-HBO强档,p3p://108.181.32.169:55113/64137f700008f329a583c3344ddf5dfc
-HBO原创,p3p://108.181.32.169:55113/64137f970005246ea5845a9326ce6233
-凤凰资讯test,p3p://108.181.32.169:55113/641fd7b400080236d5bc536f5d82159c
-Kix HD,p3p://108.181.32.169:55113/6413854d000785b1a59aaa2924fa1aa7
-Discovery Channel,p3p://108.181.32.169:55113/641383f300048101a59561c464b07293
-TVB黃金翡翠台维修中,p3p://108.181.32.169:55113/64206c63000c3a90d801201c5fe2483a
-TVB 粤语片台 HYTV维修中,p3p://108.181.32.169:55113/641022340009a273985f91092cb6113d
-TVB粵語片台维修中,p3p://108.181.32.169:55113/643361c7000d4bee220f05703b541d41
-TVB華語劇台维修中,p3p://108.181.32.169:55113/643361e10003610a220f68773c0b4c78
-TVB戲曲台维修中,p3p://108.181.32.169:55113/64336236000b18a12210b67722665e99
-民视,p3p://108.181.32.169:55113/64251dd200003544ea55fe1c5eb00e42
-民视(b),p3p://108.181.32.169:55113/6442f24f00097e845edb5e492842265c
-公视,p3p://108.181.32.169:55113/64251df1000b5a9cea567a0e255d4664
-台视,p3p://108.181.32.169:55113/64251e0800060844ea56d28a6fad038f
-台视综合,p3p://108.181.32.169:55113/64295f5300027bb1faf5dea26ef81333
-台視财经台,p3p://108.181.32.169:55113/6448a761000bec1a75267316701e7a90
-中视,p3p://108.181.32.169:55113/64251e170000e7deea570bd25e8e7797
-中視新聞,p3p://108.181.32.169:55113/642d016e000643ab0926e0907da252ca
-中天新闻,p3p://108.181.32.169:55113/64252571000be01dea73c63b5616781e
-壹電視新聞台,p3p://108.181.32.169:55113/642521bd0005dfe9ea654d921969472d
-东森新闻,p3p://108.181.32.169:55113/64251f9700046520ea5ce8b85b6c11da
-东森财经,p3p://108.181.32.169:55113/64251ff20001f010ea5e4b9002e57212
-非凡新聞台,p3p://108.181.32.169:55113/64258e8600060f7eec0e3ebd6c49020e
-寰宇新聞台,p3p://108.181.32.169:55113/64295eb60008744efaf37ae07d17520b
-TVBS 新聞台,p3p://108.181.32.169:55113/64252188000673fcea647eb0397d464d
-三立新闻,p3p://108.181.32.169:55113/64251e23000bcd04ea573d7c0f0a002e
-年代新聞,p3p://108.181.32.169:55113/645b2569000acf2fbd624de55e212fb2
-三立戏剧,p3p://108.181.32.169:55113/64251e39000ed5bbea579433569b6381
-三立綜合台,p3p://108.181.32.169:55113/64251e49000e34e7ea57d28a25014df2
-三立台湾,p3p://108.181.32.169:55113/64251e5e0003388bea5821c268061bfb
-三立都会,p3p://108.181.32.169:55113/64251e7300064780ea587492773a63cc
-纬来电影,p3p://108.181.32.169:55113/64251eae0001bef7ea5959e100ae671e
-纬来体育,p3p://108.181.32.169:55113/64251ee9000a4e00ea5a428b26ea4156
-纬来日本,p3p://108.181.32.169:55113/64251ef6000315a6ea5a737a6efc404a
-纬来精彩,p3p://108.181.32.169:55113/64251f020003818bea5aa2750fef31c6
-纬来综合,p3p://108.181.32.169:55113/64251f0d000c0b8fea5acf9d13b83665
-東森幼幼,p3p://108.181.32.169:55113/6430b41c0001f3831798d72948126428
-東森电影台,p3p://108.181.32.169:55113/64253899000a078deabe99ff587050b0
-東森綜合台,p3p://108.181.32.169:55113/64253f6e0002d287ead9482831323a6d
-東森戲劇台,p3p://108.181.32.169:55113/64251f7a000bc46eea5c79536d5e2a0e
-東森洋片,p3p://108.181.32.169:55113/64251f8a0008854aea5cb6fe64e47b4e
-八大娛樂台,p3p://108.181.32.169:55113/642520730002bc15ea6043b344e032a5
-八大第一,p3p://108.181.32.169:55113/6425207f00050f7aea60732c51b94fad
-八大综合,p3p://108.181.32.169:55113/642520b0000c3261ea61346800d61673
-八大戏剧,p3p://108.181.32.169:55113/642520c1000929efea61760938521b57
-華視綜合,p3p://108.181.32.169:55113/642520cd000995d4ea61a5050eb67a8d
-民視第一台,p3p://108.181.32.169:55113/642520e900023cc4ea621083588c7092
-民视影劇台,p3p://108.181.32.169:55113/6425257c000bd861ea73f1315c0e6e14
-民視綜藝台,p3p://108.181.32.169:55113/642d012300040bf70925bb06321b0b87
-TVBS 精采台,p3p://108.181.32.169:55113/642521570001b275ea63be1073931dd1
-TVBS,p3p://108.181.32.169:55113/64252174000b39b9ea6431c97b481680
-TVBS-G欢乐台,p3p://108.181.32.169:55113/642521950001d9f2ea64b04b059b66dd
-TVBS-精彩台,p3p://108.181.32.169:55113/642521a2000c7beaea64e5cc482f669a
-靖洋戲劇台,p3p://108.181.32.169:55113/642521b000094942ea651baa457674cb
-人间卫视,p3p://108.181.32.169:55113/6425224d00048156ea677fb9420534b4
-大爱电视,p3p://108.181.32.169:55113/6425225a0002859cea67b1ff6aaf6db6
-大爱二台,p3p://108.181.32.169:55113/64252264000022beea67d87308e9122e
-MOMO親子臺,p3p://108.181.32.169:55113/6425226f000463e1ea68048207b3285f
-ELEVEN 体育1,p3p://108.181.32.169:55113/6425227b000100c6ea6832842d41783a
-ELEVEN 体育2,p3p://108.181.32.169:55113/64252292000127feea688c6630d312e7
-ELTA体育1台,p3p://108.181.32.169:55113/6425229e00024ab4ea68bb9154ab1928
-ELTA体育2台,p3p://108.181.32.169:55113/642522b0000a6c14ea6903f615622aab
-ELTA体育3台,p3p://108.181.32.169:55113/642522bd000ad1bbea6936d803e32fc0
-ELTA体育3台国语,p3p://108.181.32.169:55113/6433e3220006392724084f1711880c01
-博斯魅力,p3p://108.181.32.169:55113/642d395d0004e9950a015dce389f4c91
-博斯運動一台,p3p://108.181.32.169:55113/642d000d000525a509217d5a62e868e8
-博斯網球台,p3p://108.181.32.169:55113/642d0029000bd7e70921ec71212f5735
-博斯運動二台,p3p://108.181.32.169:55113/642d0087000484c5092359c47ee4201a
-博斯高球台,p3p://108.181.32.169:55113/642d009f000f1f000923ba3b26b667e4
-博斯高球二台,p3p://108.181.32.169:55113/642d00ae000e846a0923f4ac45c06f09
-博斯無限台,p3p://108.181.32.169:55113/642d00bf00041ae7092434690ae526c7
-ELTA綜合,p3p://108.181.32.169:55113/642522cd000292e6ea69733b04032ded
-國家地理野生,p3p://108.181.32.169:55113/642523f2000e0f35ea6deeb16ff816c9
-历史频道2,p3p://108.181.32.169:55113/642521e0000042a6ea65d4db3e9d23f9
-EYE TV旅遊台,p3p://108.181.32.169:55113/642524030003a5b2ea6e2e6f6efc45a1
-探索科学,p3p://108.181.32.169:55113/6425241100084dfbea6e6650539d779f
-亚洲旅游台,p3p://108.181.32.169:55113/642520f70001a86dea62470d303d34d3
-美食星球,p3p://108.181.32.169:55113/6425252400079076ea72985811e07306
-罪案偵查crime,p3p://108.181.32.169:55113/642520d9000d93c9ea61d4ea78792b01
-动物星球animal planet,p3p://108.181.32.169:55113/6425241f00027d03ea6e9b836b853b0b
-星衛娱乐台,p3p://108.181.32.169:55113/6425242d000d55adea6ed4fa37195f98
-愛爾達影劇台,p3p://108.181.32.169:55113/6425243c00046a2eea6f0d4964f8022d
-Smithsonian Channel,p3p://108.181.32.169:55113/64252459000cfdb2ea6f80c37a14067d
-金光布袋戲,p3p://108.181.32.169:55113/6425246600099458ea6fb2ab4398320b
-CatchPlay電影台,p3p://108.181.32.169:55113/64252479000b7f1aea6ffd6177e3015c
-衛視中文,p3p://108.181.32.169:55113/64252507000eefc4ea7228f32f390502
-好莱坞电影台,p3p://108.181.32.169:55113/6425244f0001184fea6f56a70aca63d2
-卫视电影台scm,p3p://108.181.32.169:55113/642525150008a4ecea725e071929091e
-星卫HD电影,p3p://108.181.32.169:55113/642521030009ef43ea62780c438e2a38
-美亚电影台,p3p://108.181.32.169:55113/642525310003ad3cea72ca2155c734c3
-卫视HD电影,p3p://108.181.32.169:55113/6425253c0007ee60ea72f6307ae25fdd
-JET TV,p3p://108.181.32.169:55113/6425254d000d3abeea7339f47b5d4bf5
-中视青采,p3p://108.181.32.169:55113/642525590004d7f3ea7366ae4aeb3d9d	
-中天娱乐,p3p://108.181.32.169:55113/642525670005ee2bea739da573c134b4
-中天亚洲,p3p://108.181.32.169:55113/64254f7e000dfed1eb1809855c5735ce
-中天綜合,p3p://108.181.32.169:55113/642d0188000d7c49092747f97ffc7c72
-HBO tw,p3p://108.181.32.169:55113/64137f0b0006a17fa58238155813216c
-HBO家庭,p3p://108.181.32.169:55113/64137f3c000d4a86a582f93235111bc5
-HBO强档,p3p://108.181.32.169:55113/64137f700008f329a583c3344ddf5dfc
-HBO原创,p3p://108.181.32.169:55113/64137f970005246ea5845a9326ce6233
-Thrill,p3p://108.181.32.169:55113/644a0879000272f67a89b6687af342ae
-豬哥亮歌廳秀,p3p://108.181.32.169:55113/642d012f00030a3c0925e9a4065b1986
-靖天育樂台,p3p://108.181.32.169:55113/642d013d0001084409261fd04c0c3c04
-龍祥電影台,p3p://108.181.32.169:55113/642d014b0009f96e092658cb4e1b23ff
-Baby First,p3p://108.181.32.169:55113/642d015f000070f00926a47a6a2e7d52
-ET综合台,p3p://108.181.32.169:55113/642d017d0000a964092719b87e2e3acd
-好消息,p3p://108.181.32.169:55113/642d01960008dc0109277d7a4fc40fce
-好消息2台,p3p://108.181.32.169:55113/642d07140006a38a093cf11414d83398
-CNN my,p3p://108.181.32.169:55113/641380c6000d7e73a588fc4e012b3240
-CNBC my,p3p://108.181.32.169:55113/64138101000e328aa589e2f46ee85f3d
-ABC Australia my,p3p://108.181.32.169:55113/6413811b0006e5f7a58a46a6057a4674
-Sky News HD my,p3p://108.181.32.169:55113/641381340003e883a58aa78a57c53479
-Bloomberg TV my,p3p://108.181.32.169:55113/6413814f000a6413a58b12ab52934c96
-France 24 my,p3p://108.181.32.169:55113/6413816700069158a58b6f7a03cd341c
-Euro news my,p3p://108.181.32.169:55113/6413817b0003393aa58bbcbf158b6409
-FOX NEWS my,p3p://108.181.32.169:55113/6413818e000154fca58c067b60210765
-BBC News HD,p3p://108.181.32.169:55113/641384e7000133cda5991a1b33cb3ea0
-DW HD,p3p://108.181.32.169:55113/641384f6000cbd09a59957a77daa41a1	
-BBC World News,p3p://104.192.224.146:9806/5fe85631000bda949282c2797d6f6839	
-Sky News,p3p://104.192.224.146:9806/5fe861cd0004d5c792b01a0b2f7314a3	
-CNBC,p3p://104.192.224.146:9806/5fe7ed9d000bee7690ea4066318039ec	
-ABC Australia,p3p://104.192.224.146:9806/5fe7f9c0000400369119a71534cf160d	
-Bloomberg TV,p3p://104.192.224.146:9806/5fe7ee3900072cc790eca08f51983f0f
-MTV LIVE my,p3p://108.181.32.169:55113/641381a8000b2beaa58c6e90661462b5
-
-
-外一,#genre#
-Lifetime Movie,p3p://fccsen.dyndns.tv:29706/5a6554fa0003c32cd77bc1a751886599
-VH-1,p3p://fccsen.dyndns.tv:29706/5a46716a00078e0d5ed31d3460da3911
-BBC America,p3p://fccsen.dyndns.tv:29706/5a01d8fc000a4ee752e0271350321283
-TBS,p3p://fccsen.dyndns.tv:29706/5b7c9a5f00076daa1a60a86359a531ea
-Destination America,p3p://fccsen.dyndns.tv:29706/5a4af6c60005abb5707bfcb6077937a0
-MTV US,p3p://fccsen.dyndns.tv:29706/5b7cc0d40008b4961af6e1be0e8a0491
-OWN US,p3p://fccsen.dyndns.tv:29706/5f90e140000e4e52bec2c31d768f133a
-FashionTV HD,p3p://108.181.20.159:71421/64577742000d1a6986e1aac95b701e8b
-FashionTV HD,p3p://fccsen.dyndns.tv:29706/615276c1000841769af1921e0239571f
-Fashion TV,p3p://fccsen.dyndns.tv:29706/5a43e5ea0002d22c54e2300409a71dad
-GSN,p3p://fccsen.dyndns.tv:29706/5bd7adf4000e15bd7e2468267440101a
-Great American,p3p://fccsen.dyndns.tv:29706/5db233aa000d382c7983c4501be10123
-Freeform,p3p://fccsen.dyndns.tv:29706/5a9e1feb000d44f1b55421701c633a29
-C+I US,p3p://fccsen.dyndns.tv:29706/5a02116000082b1353bc6d2b2ae931ff
-Fuse,p3p://fccsen.dyndns.tv:29706/5ab3d751000ead120a2866c74cd96f23
-Me TV 23,p3p://fccsen.dyndns.tv:29706/5acd60e600047cf16de99d001a3b4f7e
-FYI,p3p://fccsen.dyndns.tv:29706/5b7c9957000d63fb1a5ca2a840085e1a
-HGTV US,p3p://fccsen.dyndns.tv:29706/5a91ad54000253e284b4a0ae39110fc8
-Cooking Channel,p3p://fccsen.dyndns.tv:29706/5a824d59000df7e648a5c80057151ed6
-Food Network,p3p://fccsen.dyndns.tv:29706/59bc7e11000b47f5585946df50305dc2
-Discovery Life,p3p://fccsen.dyndns.tv:29706/5b2c50dd000a1eb3e0c241e3759d22cb
-DIY Network,p3p://fccsen.dyndns.tv:29706/5bd1461f0003f8b3651ecd8a078e74fc
-Logo TV,p3p://fccsen.dyndns.tv:29706/5d6ec2d20002e4d972132c2d3b57367f
-American Heroes,p3p://fccsen.dyndns.tv:29706/5c183b520001b64738127e491183292d
-Oxygen,p3p://fccsen.dyndns.tv:29706/5c183b75000024f43813069b204240f3
-TLC US,p3p://fccsen.dyndns.tv:29706/5c5e47da0000bb2c49b3714d35d04474
-TV One,p3p://fccsen.dyndns.tv:29706/5d6efa6c0000349172ec5d012a1216a7
-BET Her,p3p://fccsen.dyndns.tv:29706/5d8421fb00053029c58ed2714a465653
-BET Jams,p3p://fccsen.dyndns.tv:29706/5d8422100000a11dc58f234e43706dda
-BET Soul,p3p://fccsen.dyndns.tv:29706/5d842222000ef2dec58f6d494b17556d
-Comet,p3p://fccsen.dyndns.tv:29706/5db23393000ef87479836aea17cc05a1
-Cozi TV,p3p://fccsen.dyndns.tv:29706/5e31d0a0000b13126c00b2fe0cce1afd
-FXM,p3p://fccsen.dyndns.tv:29706/5f5f799b000c2dcbfdc6094a128c03dd
-Ginx eSports,p3p://fccsen.dyndns.tv:29706/5e43489d00057424b03d5dc406ea2a36
-ION TV,p3p://fccsen.dyndns.tv:29706/5f28c3f300077a702810aa0817f10617
-KBS World,p3p://fccsen.dyndns.tv:29706/5e49b05d0008623bc942a477064225a9
-Daystar TV,p3p://fccsen.dyndns.tv:29706/61e0b91f000b1934c6a47c4630f946a1
-NASA TV,p3p://fccsen.dyndns.tv:29706/5c509c05000ddf47144c3c9e1c834bf1
-NASA 4K,p3p://fccsen.dyndns.tv:29706/5f2747090009bab62240b88a51ab7763
-Travelxp HD,p3p://fccsen.dyndns.tv:29706/5ffe5fc8000b05346a78de1410167cd0
-WildEarth,p3p://fccsen.dyndns.tv:29706/60ad9b300006855116f7e2477b9b5bbc
-Festival 4k,p3p://108.181.20.159:71421/647c5502000692e116e32e9c46b45652
-Bellator MMA,p3p://108.181.20.159:71421/644ed90f000b74d86537dd0e70232024
-Red Bull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-Red Bull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-BBC 1,p3p://fccsen.dyndns.tv:29706/5bb6bb320008c3b8fd705faa6a647667
-BBC 2,p3p://fccsen.dyndns.tv:29706/5bb6bb3f00077ecefd70921f13656e23
-BBC 3,p3p://fccsen.dyndns.tv:29706/59bc7fe40002bfa9586064da5fe27f17
-BBC 4,p3p://fccsen.dyndns.tv:29706/59bc801000090e075861125817955ece
-4 Seven,p3p://fccsen.dyndns.tv:29706/5fc8350400098fcf96e1e2fc391f40d5
-ITV 1,p3p://fccsen.dyndns.tv:29706/5ef279a1000a834953fe9f820c3a1e28
-ITV 2,p3p://fccsen.dyndns.tv:29706/59c67e1d00059c307f6961cb24ad3501
-ITV 3,p3p://fccsen.dyndns.tv:29706/5a21d67a000d3582cfd627334c8c2ac4
-ITV 4,p3p://fccsen.dyndns.tv:29706/5da515260002b0a746448df737ea317b
-Channel 4,p3p://fccsen.dyndns.tv:29706/5a4fc6a30000c6fe8347f2ba7b456d3d
-Channel 5,p3p://fccsen.dyndns.tv:29706/5a4fc6b8000a4344834847302d90644a
-Film 4,p3p://fccsen.dyndns.tv:29706/5a4fc6f9000c7c77834945aa62c55dd2
-More 4,p3p://fccsen.dyndns.tv:29706/5bf0817c000316d3df1e708d010a4787
-Drama,p3p://fccsen.dyndns.tv:29706/5d9e803b00086ca32c8ee1e970232f56
-Alibi,p3p://fccsen.dyndns.tv:29706/5a5028b5000ce1d084c70c1c77fb2cde
-Quest,p3p://fccsen.dyndns.tv:29706/5a5028c6000d6b6e84c74ea702584daa
-Gold,p3p://fccsen.dyndns.tv:29706/5a5028d80004694d84c792a90f466ae3
-ITVbe,p3p://fccsen.dyndns.tv:29706/5a5028ea0009ec5d84c7da6221e13f41
-Home,p3p://fccsen.dyndns.tv:29706/5da51b9e000e3265465dd5b1148d3edd
-Food Network,p3p://fccsen.dyndns.tv:29706/5da51cc1000719a3466244991dfc4c94
-Yesterday,p3p://fccsen.dyndns.tv:29706/5a503add0004be13850df64c4e0e7ed9
-TLC UK,p3p://fccsen.dyndns.tv:29706/5da51b58000255f9465cc13749aa2c6a
-
-外二,#genre#
-Lifetime UK,p3p://fccsen.dyndns.tv:29706/5da51d28000cae794663d85f554d3f9c
-E4 UK,p3p://fccsen.dyndns.tv:29706/5a5045990007b58e8537e56c043e0517
-CBeebies UK,p3p://fccsen.dyndns.tv:29706/5da7ad9f000eb51e506829be07ce15df
-Horror Channel,p3p://fccsen.dyndns.tv:29706/5f139cdf0007c7bcd57026d3180f7f58
-Dmax UK,p3p://fccsen.dyndns.tv:29706/5da52adb0001a937469958c62dd95fa5
-CBS Drama,p3p://fccsen.dyndns.tv:29706/5a4fc7240002de418349eb2c44273f82
-Universal TV,p3p://fccsen.dyndns.tv:29706/5da51b6c000ae4bd465d1188038c2952
-Syfy UK,p3p://fccsen.dyndns.tv:29706/5da51b86000f421b465d78362c122cfb
-Comedy Central,p3p://fccsen.dyndns.tv:29706/5da51c340006f7dc46601dc851d4236e
-Nat Geo Wild,p3p://fccsen.dyndns.tv:29706/5f139b730009c10dd56a997245464c2f
-Discovery Channel,p3p://fccsen.dyndns.tv:29706/5da51e5f000a557b4668969f5f0b0789
-Discovery Turbo,p3p://fccsen.dyndns.tv:29706/5da51d91000b4fa14665722e0fcf3b63
-Discovery Science,p3p://fccsen.dyndns.tv:29706/5da51de000049fab4666a51001703d65
-Crime +,p3p://fccsen.dyndns.tv:29706/5da51e07000b872046673f2d37735085
-Discovery History,p3p://fccsen.dyndns.tv:29706/5da51d740009296e466500593dfb7145
-National Geographic,p3p://fccsen.dyndns.tv:29706/5da51e20000e402d4667a1875cf64269
-History UK,p3p://fccsen.dyndns.tv:29706/5da51e35000d80214667f35e7d2a65b4
-Animal Planet,p3p://fccsen.dyndns.tv:29706/5da51e490005df2446683f8a02a66ebe
-Sky Atlantic,p3p://fccsen.dyndns.tv:29706/5e937e9b000d211ee99027b522051eb7
-Sky Cinema Premiere,p3p://fccsen.dyndns.tv:29706/5da5265d000124534687cc6e64863e16
-Sky Cinema Hits,p3p://fccsen.dyndns.tv:29706/5da5267800053e83468836f3527a317f
-Sky Cinema Greats,p3p://fccsen.dyndns.tv:29706/5da5268e0007cd5a46888d8b4a030f75
-Sky Cinema Disney,p3p://fccsen.dyndns.tv:29706/5da52a23000cd03546968ce03d10436d
-Sky Cinema Family,p3p://fccsen.dyndns.tv:29706/5da52a3a0009a24d4696e5e831760737
-Sky Cinema Action,p3p://fccsen.dyndns.tv:29706/5da52a4e0009dc414697341634494bf0
-Sky Cinema Comedy,p3p://fccsen.dyndns.tv:29706/5da52a63000a4ce64697863b55733b22
-Sky Cinema Thriller,p3p://fccsen.dyndns.tv:29706/5da52a7b000755af4697e3392145116d
-Romance,p3p://fccsen.dyndns.tv:29706/5da52a8c000d95ce4698273b0d2576c1
-Sky Cinema Sci-Fi,p3p://fccsen.dyndns.tv:29706/5da52aa1000cd5c3469879127d5c27a1
-Sky Cinema Select,p3p://fccsen.dyndns.tv:29706/5da52ab80001ccea4698d01746601c1e
-MTV UK,p3p://fccsen.dyndns.tv:29706/5da51d490005ed024664578d70665406
-MTV Rocks,p3p://fccsen.dyndns.tv:29706/5da7ad7100064ecc506773e725c50461
-MTV Hits,p3p://fccsen.dyndns.tv:29706/63433e7100084f612f7bf55b3d3b1e49
-MTV Classic,p3p://fccsen.dyndns.tv:29706/5da7ad24000a90e6506648362423296c
-MTV Music,p3p://fccsen.dyndns.tv:29706/5da7acd7000496ae506519e6097a6f67
-Nick UK,p3p://fccsen.dyndns.tv:29706/5da7ac6e00098796506381011c8f27e3
-Nick Jr UK,p3p://fccsen.dyndns.tv:29706/5da7ac2a0001aa9d5062755e4b5e262a
-Boomerang,p3p://fccsen.dyndns.tv:29706/5da7abcd00005d2a506109c006c62a60
-Cartoon Network,p3p://fccsen.dyndns.tv:29706/5da7abac0005edf150608a4463c94ae2
-Pop UK,p3p://fccsen.dyndns.tv:29706/5da7ab5e000f35f9505f5bf40fdb7062
-Tiny Pop,p3p://fccsen.dyndns.tv:29706/5da7ab900003479f50601c3777804504
-Sky Sports Racing,p3p://fccsen.dyndns.tv:29706/5da51e77000af0554668f4872a89003b
-Racing TV,p3p://fccsen.dyndns.tv:29706/5da88bb300039f0c53cba50744e74fe0
-ABC news  au,p3p://108.181.20.159:71421/616af6760009c76c78b2265b3bf645df
-Bloomberg,p3p://fccsen.dyndns.tv:29706/5a7e6aa2000db3e039783dac0a1c0882
-HBO 1 EU,p3p://fccsen.dyndns.tv:29706/5a7f5d8b0006c8863d2d1a0954875116
-HBO 2 EU,p3p://fccsen.dyndns.tv:29706/5a7f5df90002ac273d2ec6ad45e61251
-HBO 3 EU,p3p://fccsen.dyndns.tv:29706/5a7f5e14000964a73d2f31dd21593dab
-Luxe TV,p3p://108.181.20.159:71421/6456af9600079b7483d5b18c11483d4c
-DAS DE,p3p://fccsen.dyndns.tv:29706/59c69a660000e27d7fd7ddc05e8555ae
-ZDF DE,p3p://fccsen.dyndns.tv:29706/59c69a4900037f0b7fd76d230a816ff2
-ARTE DE,p3p://fccsen.dyndns.tv:29706/59c69acb0001841f7fd9687220d207dc
-KIKA DE,p3p://fccsen.dyndns.tv:29706/59c69ae8000da9b37fd9dcd67ca10979
-BR DE,p3p://fccsen.dyndns.tv:29706/59c69afb000870547fda25b87bc576f2
-HR DE,p3p://fccsen.dyndns.tv:29706/59c69b28000c57137fdad6803d9c30fb
-Sat. 1 DE,p3p://fccsen.dyndns.tv:29706/5f5d3bb30009e00af5043eae65d148d2
-VOX DE,p3p://fccsen.dyndns.tv:29706/5f5d3b160008b486f501d9184cd37d8a
-3Sat DE,p3p://fccsen.dyndns.tv:29706/59c69ab10009c4727fd904ff21773775
-RTL DE,p3p://fccsen.dyndns.tv:29706/59c69a980001cec57fd8a14d3249082f
-MDR DE,p3p://fccsen.dyndns.tv:29706/59c69b12000766dc7fda7f4c6c4f5db7
-Sport 1 DE,p3p://fccsen.dyndns.tv:29706/59c69b4a000e211f7fdb5bc5581660db
-Rai Movie,p3p://fccsen.dyndns.tv:29706/5d9bcf180006602b220af0b12c83628c
-Rai Yoyo,p3p://fccsen.dyndns.tv:29706/5d9bcfc80008bfa1220da0cd4c251fbb
-Rai Gulp,p3p://fccsen.dyndns.tv:29706/5d9bd044000133a9220f833f6e33072b
-Rai Sport,p3p://fccsen.dyndns.tv:29706/5ce55e530004917c59631c416da147ed
-Mediaset Italia,p3p://fccsen.dyndns.tv:29706/5f7674490007cbab5789312c5e2f2562
-TGCom 24,p3p://fccsen.dyndns.tv:29706/5f767321000e0fe35784ae85628f3c1d
-Sky Sport F1,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
-Rai Italia,p3p://fccsen.dyndns.tv:29706/5e17f55f00015729070044dd79832d8f
-Canale 5,p3p://fccsen.dyndns.tv:29706/5a5e438c00031f6fbbdfbf365aad3723
-Italia 1,p3p://fccsen.dyndns.tv:29706/5a5e43a000094cd3bbe00eeb3ef504bb
-Rai 1,p3p://fccsen.dyndns.tv:29706/5a5e436000002632bbdf1293798d6370
-Rai 2,p3p://fccsen.dyndns.tv:29706/5a5e4370000ab56fbbdf53c726467b6a
-Rai 3,p3p://fccsen.dyndns.tv:29706/5a5e4710000c985dbbed7d473bf0506f
-Rai 4,p3p://fccsen.dyndns.tv:29706/5d9bd099000051af2210cf0e2c5b6ab7
-Rai 5,p3p://fccsen.dyndns.tv:29706/5d9bd0ff000e04a3221260f04c1877ca
-Rai Premium,p3p://fccsen.dyndns.tv:29706/5fea8ac4000ac1b41d00cea27a0317bd
-Rete 4,p3p://fccsen.dyndns.tv:29706/5ce5640c0009c88a5979783666a766b6
-Sky Sport MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
-Sky Sport Football,p3p://fccsen.dyndns.tv:29706/6329271b000e5130c990e9333b502971
-Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
-Sky Sports Golf,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
-TV 5 Monde,p3p://fccsen.dyndns.tv:29706/59e2372a00027fafebb4062e1f3d7af5
-TF1,p3p://fccsen.dyndns.tv:29706/59c6a37d00095b957ffb61bf7a9f3466
-M6,p3p://fccsen.dyndns.tv:29706/59c6cf64000d88e280a6e12e61086600
-France 2,p3p://fccsen.dyndns.tv:29706/59c6a4ad0005fd9b800004645bea0b77
-6TER,p3p://fccsen.dyndns.tv:29706/59c6a6510000fc1c80066bbd638739bb
-W9,p3p://fccsen.dyndns.tv:29706/5baaaedb0003d171ce60400221e37b08
-ARTE,p3p://fccsen.dyndns.tv:29706/59c6a69300082ec180076f653582249f
-外三,#genre#
-France 3,p3p://fccsen.dyndns.tv:29706/5a517b700002dd6289f2340172f37971
-France 4,p3p://fccsen.dyndns.tv:29706/5a517b88000c46ed89f2942a34c436ca
-France 5,p3p://fccsen.dyndns.tv:29706/5a517ba20001e22a89f2f7113cc34513
-Cherie 25,p3p://fccsen.dyndns.tv:29706/5a51856e000dcc308a193f094831387f
-TMC,p3p://fccsen.dyndns.tv:29706/5a518baa0001c6128a31964d642739ba
-C8,p3p://fccsen.dyndns.tv:29706/5a52a27e0003f8e88e72b28a244e5f2c
-NRJ 12,p3p://fccsen.dyndns.tv:29706/5a52a296000e19438e7312e20e9d7640
-Guli,p3p://fccsen.dyndns.tv:29706/5a52a2aa0005fe658e735eef08f1393e
-Boing,p3p://fccsen.dyndns.tv:29706/5a52a2c00009fadc8e73b5e40afa02dd
-PLANETE,p3p://fccsen.dyndns.tv:29706/5f8879240008c9349dec21087a720e4d
-TFX,p3p://fccsen.dyndns.tv:29706/5c460fe70007590ceb18e5c00fcb0ed0
-L Equipe,p3p://fccsen.dyndns.tv:29706/5ce4954900066af15651cda541f023fc
-BFM,p3p://fccsen.dyndns.tv:29706/5fc535c50004fd0f8b2cd3b328af18b1
-I24 News,p3p://fccsen.dyndns.tv:29706/5a5170e800076ff389c911f013481fb8
-BFM Business,p3p://fccsen.dyndns.tv:29706/5de53fad000e283540ea91a440835a22
-FRANCE 24 Direct,p3p://fccsen.dyndns.tv:29706/5a7f52b400093c5c3d02c2d5213a441e
-France O,p3p://fccsen.dyndns.tv:29706/5fc6e5f0000a954691c4fd1644980108
-Monde Style,p3p://fccsen.dyndns.tv:29706/5c4a1634000df0cdfad1843218b64963
-Decouverte,p3p://fccsen.dyndns.tv:29706/5d9f57c30002c3372fd8cbbc058420fa
-Series Films,p3p://fccsen.dyndns.tv:29706/5d9f5a100008a1b22fe1c9f818b34bdd
-Discovery Fr,p3p://fccsen.dyndns.tv:29706/5fce79ab0001e94aaf5e02bc0eb50c8a
-AB 3,p3p://fccsen.dyndns.tv:29706/5f887b09000087579df3857574a044b3
-E! France,p3p://fccsen.dyndns.tv:29706/5f887b7800030efa9df537b370b34106
-RTL 9,p3p://fccsen.dyndns.tv:29706/5fce701a000075cdaf38a3f97238584b
-AB 1,p3p://fccsen.dyndns.tv:29706/5fce70ca000a7343af3b56090b394cc8
-Histoire,p3p://fccsen.dyndns.tv:29706/5fce78f10004c7f4af5b2ce77b140349
-Piwi,p3p://fccsen.dyndns.tv:29706/605698e6000d9374c317f30e4fc57cdf
-Tiji,p3p://fccsen.dyndns.tv:29706/5ff750f1000e9a904ee6e7287bf25580
-Canal Cinema,p3p://fccsen.dyndns.tv:29706/5fcea9d3000318a0b01a1f45295d5ea1
-Canal Decale,p3p://fccsen.dyndns.tv:29706/5fceab6400040750b0203dec67983f01
-Canal Family,p3p://fccsen.dyndns.tv:29706/5fceac6700010b77b02430e110f94978
-Canal Series,p3p://fccsen.dyndns.tv:29706/5fcead2b00091e70b02730940da8251e
-Canal Plus,p3p://fccsen.dyndns.tv:29706/5fcec62f0004559fb088e6f97d44189f
-Cine Premier,p3p://fccsen.dyndns.tv:29706/5fcec8e30009988fb093777528cd273f
-Cine Classic,p3p://fccsen.dyndns.tv:29706/5fcec9730008f0ccb095a9ca11556113
-Cine Emotion,p3p://fccsen.dyndns.tv:29706/5fceca01000c6176b097d55c063c1bd9
-Cine Famiz,p3p://fccsen.dyndns.tv:29706/5fcecaad000e9cf4b09a75d01eb131e7
-Bloomberg,p3p://fccsen.dyndns.tv:29706/61e758680001022ae082a6d70c3062b9
-Zee World,p3p://fccsen.dyndns.tv:29706/614be3d6000446728143b55f3f6f422a
-Star Life,p3p://fccsen.dyndns.tv:29706/614be3e8000f04b88143fe7046ef68ea
-Fox HD Indian,p3p://fccsen.dyndns.tv:29706/5d66f8f4000241de53a6a0d07afd562a
-Color HD,p3p://fccsen.dyndns.tv:29706/5c509c39000e0843144d07c966c97f12
-SET HD,p3p://fccsen.dyndns.tv:29706/5c50d55a000cc20a152c30537e091b7f
-SET SAB HD,p3p://fccsen.dyndns.tv:29706/5c50d53f000e5e5b152bc745689b1314
-TLC IN,p3p://fccsen.dyndns.tv:29706/61df83ca000c37c6c1ec28920bd3457d
-Sony Max HD,p3p://fccsen.dyndns.tv:29706/5c50f43e000d6d7c15a4db252fb419ec
-Food Network Asia,p3p://fccsen.dyndns.tv:29706/61ed8d430002009af8c11e944a8c7167
-MTV Beats,p3p://fccsen.dyndns.tv:29706/61e9e5e90001efd6ea7b66fe67665743
-Zoom TV,p3p://fccsen.dyndns.tv:29706/61e9e758000b65d1ea8102fe734b70f5
-BBC Earth EU,p3p://fccsen.dyndns.tv:29706/61ed8f90000b36e6f8ca1daa6314513d
-CNBC Awaaz,p3p://fccsen.dyndns.tv:29706/5c59a4b20000133a37961cd816a4385b
-Zee Cinema,p3p://fccsen.dyndns.tv:29706/5c4fa4b20000b67f10861d0914910d85
-UTV Movies,p3p://fccsen.dyndns.tv:29706/61d64da5000f30939df0a8cc30b03142
-Star Utsav,p3p://fccsen.dyndns.tv:29706/61d50bf30008b9e3990807d249f0124c
-B4U Movie,p3p://fccsen.dyndns.tv:29706/5c4fa54b00008d5b108872a839db0c17
-B4U Kadak,p3p://fccsen.dyndns.tv:29706/61d51d3c00099e27994b8d3870424020
-UTV Action,p3p://fccsen.dyndns.tv:29706/61d64e95000cda849df451a8228c6388
-Zee Bollywood,p3p://fccsen.dyndns.tv:29706/5c61c45100034c415751a2c03c607d84
-Zee Action,p3p://fccsen.dyndns.tv:29706/5c61ea5a0004971f57e6363b5ae6489e
-NDTV 24x7,p3p://fccsen.dyndns.tv:29706/611efa7500060f18d1d44b5d6a7740aa
-NDTV 24x7,p3p://fccsen.dyndns.tv:29706/61e75e470001502ae09996053f4d7653
-Indian News,p3p://fccsen.dyndns.tv:29706/61e75cad000c2018e09357322a3b2682
-ABP News,p3p://fccsen.dyndns.tv:29706/61e75c53000db5cae091f81253823372
-India TV,p3p://fccsen.dyndns.tv:29706/61e7590e000388aae0852fe334ae4b05
-Zee News,p3p://fccsen.dyndns.tv:29706/61e75d9400019975e096dae246970f50
-Zee Business,p3p://fccsen.dyndns.tv:29706/61e75bdb000a4b45e090226c5794049d
-News Nation,p3p://fccsen.dyndns.tv:29706/61e75df9000b02e1e09867c52f7d642e
-Times Now,p3p://fccsen.dyndns.tv:29706/61e75e850004fbdae09a891a7e723102
-ET Now,p3p://fccsen.dyndns.tv:29706/5c5636d6000f1dd62a30fd51342b4171
-ET Now,p3p://fccsen.dyndns.tv:29706/5d6fe9f200052cd5769401bc71e5367e
-Aaj Tak,p3p://fccsen.dyndns.tv:29706/61e7565400089dd2e07a8aa05f9703cc
-CNBC TV 18,p3p://fccsen.dyndns.tv:29706/5d6fe3f1000a0c1a767c8f1b021f54a3
-India Today,p3p://fccsen.dyndns.tv:29706/61e75a18000594f8e0893f7d2a735434
-MTV Indian,p3p://fccsen.dyndns.tv:29706/61e9e8ca000ace1aea86a8230d7c3108
-MTV Live Indian,p3p://fccsen.dyndns.tv:29706/61e9e3ea000a0d31ea739cfc1edd723a
-Sun News,p3p://fccsen.dyndns.tv:29706/61f0af0a000def2104fd12f1607d0e7a
-Star Gold,p3p://fccsen.dyndns.tv:29706/5c61ea7c0008ff7c57e6bc2c4d7c62ae
-Al Jazeera HD,p3p://fccsen.dyndns.tv:29706/61e75f22000ebc02e09cf0e15b826f36
-FightBox HD,p3p://fccsen.dyndns.tv:29706/61ea300b000f0d5feb9cff1e4a164352
-AND Xplor HD,p3p://fccsen.dyndns.tv:29706/621fb030000eff51bc997daa4d945dc5
-A Sports,p3p://fccsen.dyndns.tv:29706/61ea3047000e4bbceb9de94d39d6504b
-Sports Extreme,p3p://fccsen.dyndns.tv:29706/5d7e6dd2000b41daaf4713cf230c71eb
-PTV Sports,p3p://fccsen.dyndns.tv:29706/61ea318500087833eba2c1ff334012b1
-Sun TV HD,p3p://fccsen.dyndns.tv:29706/61f0b048000921540501ebe16fd90594
-Zee Tamil HD,p3p://fccsen.dyndns.tv:29706/61f1cd3d0009f603095b092867dd4462
-Zing,p3p://fccsen.dyndns.tv:29706/61e9e597000cf96eea7a298261ca49fd
-ADITHYA,p3p://108.181.20.159:71421/5fe7e570000a9b1990ca503d780e15ae
-Color Tamil,p3p://108.181.20.159:71421/61377dbc00057a97afa4ce8b133f165f       
-外四,#genre#
-MC Toddler Tunes,p3p://fccsen.dyndns.tv:29706/5e5720d3000b7b15fdc1f23d5149444e
-MC Hit List,p3p://fccsen.dyndns.tv:29706/5be36a41000da00fabfbcc18413a74d9
-MC 90s,p3p://fccsen.dyndns.tv:29706/5e572569000e4564fdd3dcd9137e3462
-MC Mexican,p3p://fccsen.dyndns.tv:29706/5be36b520005c6feabfff47e11681930
-MC Pop Country,p3p://fccsen.dyndns.tv:29706/5be36b8c0006fb34ac00d75e0c8558d0
-MC Pop Hits,p3p://fccsen.dyndns.tv:29706/5be36bfe00061afcac0294753d725144
-MC Rap,p3p://fccsen.dyndns.tv:29706/5be36c420003bba3ac039d7a31b15a3e
-MC Alternative,p3p://fccsen.dyndns.tv:29706/5be360250008c3fdabd44d763c2d0269
-MC Brits Hits,p3p://fccsen.dyndns.tv:29706/5be360a0000b7a95abd62ea06ed2581f
-MC HIP HOP,p3p://fccsen.dyndns.tv:29706/5be360d300066d2eabd6f48d792e2422
-MC Dance,p3p://fccsen.dyndns.tv:29706/5be369c8000c878babf9f3273be63f92
-MC Rap 2K,p3p://fccsen.dyndns.tv:29706/5d67257c000e68e6545497333e3050f2
-MC Urban,p3p://fccsen.dyndns.tv:29706/5be360a0000b7a95abd62ea06ed2581f
-MC Throwback Jamz,p3p://fccsen.dyndns.tv:29706/5deea2980001ead06594f46d2281791b
-MC Kids Only,p3p://fccsen.dyndns.tv:29706/5d672536000b5b2b545384fa392e2164
-MC Rock,p3p://fccsen.dyndns.tv:29706/5d6725190008bb175453130642ab77ab
-MC Today Country,p3p://fccsen.dyndns.tv:29706/5d672506000301555452c7575f8c47e3
-MC Y2K,p3p://fccsen.dyndns.tv:29706/5d6724c5000735745451ca82618a5db2
-MC Tropicales,p3p://fccsen.dyndns.tv:29706/5d6724dd00030d8d54522732767556ad
-MC Pop Latino,p3p://fccsen.dyndns.tv:29706/5e5725fb00098534fdd615f37a00477f
-MC Teen Beats,p3p://fccsen.dyndns.tv:29706/5e5726130008757efdd6736d792f4865
-MC R and B Soul,p3p://fccsen.dyndns.tv:29706/5e572591000c57eafdd4789b077020e2
-Afro Music Pop,p3p://fccsen.dyndns.tv:29706/5ebca53300001a428a4ed37b0c9e6c79
-Mzansi Magic Music,p3p://fccsen.dyndns.tv:29706/63fd2cb3000a7d9105c63d6b79fb1883
-HBO 1 US,p3p://fccsen.dyndns.tv:29706/5a80a39f0007f7154226c7df693733ac
-HBO 2 US,p3p://fccsen.dyndns.tv:29706/5a80a6c0000554e44233001e438b75ab
-HBO Signature,p3p://fccsen.dyndns.tv:29706/5a80bfb700059ffd42948508086841ca
-HBO Family,p3p://fccsen.dyndns.tv:29706/5a80c1190001c0ab4299eadc7b933bf2
-HBO Comedy,p3p://fccsen.dyndns.tv:29706/5d44e194000bc15bce7b7c530ca97fd1
-ShowTime 1,p3p://fccsen.dyndns.tv:29706/5a808f940000089041d87ae6044e644c
-ShowTime 2,p3p://fccsen.dyndns.tv:29706/5a8091760001d8cf41dfd62037bd2bb3
-ShowCase US,p3p://fccsen.dyndns.tv:29706/5a80acc9000e4eff424a958a1d706ebe
-Showtime Extreme,p3p://fccsen.dyndns.tv:29706/5bdb7ae400054a528cfcd6af5e8c72f1
-Starz,p3p://fccsen.dyndns.tv:29706/5a80a2230005918a4220fae0314d0fd3
-Starz Comedy,p3p://fccsen.dyndns.tv:29706/5a80addb00090dff424ec2837a9571d3
-Starz Edge,p3p://fccsen.dyndns.tv:29706/5a80b0fd0007d330425aff061ef457c9
-Starz Kids Family,p3p://fccsen.dyndns.tv:29706/5a80a9f500054e06423f872865f708d3
-Starz Encore,p3p://fccsen.dyndns.tv:29706/5a80be900002d257429003f717da70b9
-Starz Encore Westerns,p3p://fccsen.dyndns.tv:29706/5a8c37980006a8f56f60bb6e2f790247
-Starz in Black,p3p://fccsen.dyndns.tv:29706/5d699397000549715dd2ae4d6c5e36fb
-Cinemax US,p3p://fccsen.dyndns.tv:29706/5a80a7f800099fe84237c3f9277e4330
-5 Star Max,p3p://fccsen.dyndns.tv:29706/5a80aad7000413f34242f999463d33f0
-Action Max,p3p://fccsen.dyndns.tv:29706/5a80afd1000b552142566c0a0df85cce
-More Max,p3p://fccsen.dyndns.tv:29706/5d535d6c00090956070f2eaa3acc5664
-Hallmark Movie,p3p://fccsen.dyndns.tv:29706/5e8a08370005aba0c499b7b2016638aa
-Hallmark Drama,p3p://fccsen.dyndns.tv:29706/5e8a0a07000641afc4a0cc5b0005022f
-Movie Network 1,p3p://fccsen.dyndns.tv:29706/5a823c86000538f848640d8675a36fe2
-Movie Network 2,p3p://fccsen.dyndns.tv:29706/5a823d1c00092e804866587b5eb5351a
-Movie Network 3,p3p://fccsen.dyndns.tv:29706/5a824324000647f7487de6f46fe732cf
-Movie Network 4,p3p://fccsen.dyndns.tv:29706/5be7a686000e833fbc8739de5a5c5300
-外五,#genre#
-HBO 1 CA,p3p://fccsen.dyndns.tv:29706/5a7f5b5f000c02e63d249f7d2b8c5ec8
-HBO 2 CA,p3p://fccsen.dyndns.tv:29706/59ffcb9e000d31164adbf09e33000a19
-Crave 1,p3p://fccsen.dyndns.tv:29706/5a823c86000538f848640d8675a36fe2
-Crave 2,p3p://fccsen.dyndns.tv:29706/5a823d1c00092e804866587b5eb5351a
-Crave 3,p3p://fccsen.dyndns.tv:29706/5a824324000647f7487de6f46fe732cf
-Crave 4,p3p://fccsen.dyndns.tv:29706/5be7a686000e833fbc8739de5a5c5300
-TCM,p3p://fccsen.dyndns.tv:29706/5fc871b60003291997cef8a3782a2050
-AMC,p3p://fccsen.dyndns.tv:29706/607f69cc000cd9d86287e0cc33602205
-FX CA,p3p://fccsen.dyndns.tv:29706/607f5d59000d72fb62573fbc254b1184
-FXX CA,p3p://fccsen.dyndns.tv:29706/607f5dfa000355746259b20e3ee208ae
-Disney,p3p://fccsen.dyndns.tv:29706/615bd05000046055bf775f3c6ca735d1
-YTV,p3p://fccsen.dyndns.tv:29706/58a79b59000661ef4b875954421a1f92
-Family,p3p://fccsen.dyndns.tv:29706/5a90a8c80008e0a380badf7d32454d6b
-TreeHouse,p3p://fccsen.dyndns.tv:29706/5ba6e01600024161bf80a31a40da41b5
-Teletoon,p3p://fccsen.dyndns.tv:29706/58a79b40000f11fc4b86f9e61b6f5abb
-ABC Spark,p3p://fccsen.dyndns.tv:29706/5bfc4a16000e9ada0d25e9183f3a1b63
-Cartoon Network,p3p://fccsen.dyndns.tv:29706/615bcd6f000d0a9cbf6c228a724f214f
-Disney XD,p3p://fccsen.dyndns.tv:29706/615bd096000d518bbf7872fa7de40c90
-OLN,p3p://fccsen.dyndns.tv:29706/5a0112b8000bfb3b4fd9adde728a2528
-History CA,p3p://fccsen.dyndns.tv:29706/60b80f4f0009915d3fcd7c2b0cec645e
-History 2 CA,p3p://fccsen.dyndns.tv:29706/5e8785820007bb05bacb253036df3178
-Nat Geo Wild,p3p://fccsen.dyndns.tv:29706/5e43703100062898b0d7f81255483ded
-Nat Geographic,p3p://fccsen.dyndns.tv:29706/5dbc8a9400037b3ca1e73964363566a5
-Discovery,p3p://fccsen.dyndns.tv:29706/5bdce61a00068daa9287a1f60e68584f
-TLC CA,p3p://fccsen.dyndns.tv:29706/58ab8bce0002005c5aea91d24ea15bfb
-Love Nature,p3p://fccsen.dyndns.tv:29706/5f5550330007d5fcd614522b5d6972f3
-Smithsonian,p3p://fccsen.dyndns.tv:29706/59e2ab3400085940ed794ecb7d945036
-LifeTime,p3p://fccsen.dyndns.tv:29706/59bc1344000b4faf56b816163ede44e8
-ID Canada,p3p://fccsen.dyndns.tv:29706/5a01ced1000e0a7c52b8701303594b92
-Oprah Winfrey Network,p3p://fccsen.dyndns.tv:29706/5a01d1fe00087f0f52c4d67341664e1f
-HGTV,p3p://fccsen.dyndns.tv:29706/5a66963e00030b02dc62b310138b2abe
-Food Network,p3p://fccsen.dyndns.tv:29706/5bb0f0ec000842c3e6d2539210061045
-Cooking Channel,p3p://fccsen.dyndns.tv:29706/5bc933e40000e06f4597aa2c550151d8
-T+E,p3p://fccsen.dyndns.tv:29706/5a3026ab000021ea07bf40f035876200
-Arts and Entertainment,p3p://fccsen.dyndns.tv:29706/5a0b9bd1000f33a5790126cd78bf1239
-Bravo,p3p://fccsen.dyndns.tv:29706/5a0fd62200032b608984f02a05fc0840
-E!,p3p://fccsen.dyndns.tv:29706/607f615b0006fea46266e5ea25f418ca
-CTV Comedy,p3p://fccsen.dyndns.tv:29706/5d97de23000dfa8212a5bf441ba250bb
-CTV Sci-Fi (Space),p3p://fccsen.dyndns.tv:29706/5a824f4b000d7cc148ad61231d697205
-Dtour,p3p://fccsen.dyndns.tv:29706/5a01e2a4000a021d5305df3b13627dc3
-Cottage Life,p3p://fccsen.dyndns.tv:29706/5a01e36e000f14615308f59841955835
-DIY,p3p://fccsen.dyndns.tv:29706/615bcff2000bb9c8bf75f1e90fad329a
-Crime Investigation,p3p://fccsen.dyndns.tv:29706/5eab9d25000950d447c768f86d8507f7
-Much,p3p://fccsen.dyndns.tv:29706/5a83817900067ff64d59630f2a13081a
-MTV,p3p://fccsen.dyndns.tv:29706/615bdeb3000754d8bfaf92bb35ea5472
-BBC Earth,p3p://fccsen.dyndns.tv:29706/58ab8c030006e5da5aeb621b23617da7
-ShowCase CA,p3p://fccsen.dyndns.tv:29706/5a824ba300070904489f1748478d74dd
-TCM,p3p://fccsen.dyndns.tv:29706/5fc871b60003291997cef8a3782a2050
-IFC,p3p://fccsen.dyndns.tv:29706/5c3251fb00007e8f9dfb02205f5f0c2a
-Ginx eSports,p3p://108.181.20.159:71352/6452b6c900062fb47451fa3e235a3be3
-ABC East,p3p://fccsen.dyndns.tv:29706/5a22e3260003c777d3efa4a17ef52ed5
-NBC East,p3p://fccsen.dyndns.tv:29706/5a22e3a400031634d3f190a415e937b5
-FOX East,p3p://fccsen.dyndns.tv:29706/5a22e39200053125d3f14ade62795cb2
-CBS East,p3p://fccsen.dyndns.tv:29706/5a22e33a000dc3dbd3eff55062f41541
-ABC West,p3p://fccsen.dyndns.tv:29706/5f583e72000aa869e186f9000c746f19
-NBC West,p3p://fccsen.dyndns.tv:29706/59bc11870006371156b14a7e4f582d4a
-FOX West,p3p://fccsen.dyndns.tv:29706/59bc11980000166e56b18b555ee76179
-CBS West,p3p://fccsen.dyndns.tv:29706/59bc11600005bced56b0b2076cdc03ae
-CW,p3p://fccsen.dyndns.tv:29706/59bc123300005aaf56b3e8df3b070c65
-PBS,p3p://fccsen.dyndns.tv:29706/59bc11a700021a2956b1c67179f0240c
-TNT US,p3p://fccsen.dyndns.tv:29706/59f68ffc0009666026cb12e01e7c444f
-A&E,p3p://fccsen.dyndns.tv:29706/5c5e4b01000f170749bfc5460676788f
-AMC,p3p://fccsen.dyndns.tv:29706/5a00f28d000c252b4f5c05f9598b19d0
-WGN,p3p://fccsen.dyndns.tv:29706/59bc1fb60000069a56e8b0820f5b23a7
-E!,p3p://fccsen.dyndns.tv:29706/5d387ef3000308729e1a3e0e26241792
-Sundance TV,p3p://fccsen.dyndns.tv:29706/5d4cb2f9000820b0ed0564042b4c6eb6
-SYFY,p3p://fccsen.dyndns.tv:29706/5a0b98690005c2b878f3d62e580e119c
-FX US,p3p://fccsen.dyndns.tv:29706/59bc12dd0003597a56b681b402c25bb8
-FXX US,p3p://fccsen.dyndns.tv:29706/59bc19d70002e0eb56d1c21e32526605
-Bravo US,p3p://fccsen.dyndns.tv:29706/5a88d0ae000df2096216cbfc17dc4630
-LifeTime US,p3p://fccsen.dyndns.tv:29706/5b15d5510000a43b88efcbdc14995ff9
-Comedy Central,p3p://fccsen.dyndns.tv:29706/59bc7e700009adac585ab98e50c44181
-WE TV,p3p://fccsen.dyndns.tv:29706/5a1494c00005157b9c0d78006afa26fc
-Paramount Network,p3p://fccsen.dyndns.tv:29706/5a47c3d4000c210263fd0c6d196b47ad
-USA Network,p3p://fccsen.dyndns.tv:29706/5f36e55f000051e05f432b9823245870
-Travel Channel,p3p://fccsen.dyndns.tv:29706/5a20ac3a000aeb29cb491ca07e63492d
-Tru TV,p3p://fccsen.dyndns.tv:29706/5a3c724e0009e51e37c6a846152756c9
-BET,p3p://fccsen.dyndns.tv:29706/5a88f8ff0009cd9962b447551fe4191d
-TV Land,p3p://fccsen.dyndns.tv:29706/5bd6416300025ca478944ec057621712
-Weather Channel,p3p://fccsen.dyndns.tv:29706/5fe7f6b800096eff12ee7f752cfe3c6d
-Hallmark Channel,p3p://fccsen.dyndns.tv:29706/5bd5f0d7000465ab7759ac632ce15607
-北美,#genre#
-MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
-CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
-Beinsport FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
-Beinsport FR2,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
-Beinsport FR3,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
-UFC pass,p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
-WWE,p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
-Bein Sports USA,p3p://fccsen.dyndns.tv:29706/5c4a5e2a000ddac2fbea9d2420355926
-Bein Sport CA,p3p://fccsen.dyndns.tv:29706/5bd63729000b758e786c5e885c6634e3
-Euro News,p3p://fccsen.dyndns.tv:29706/5a5170cc000e8c1389c8a661433d15f1
-Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
-ESPN 1,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
-ESPN 2,p3p://fccsen.dyndns.tv:29706/59bbf1fd000b428d563618b379a53086
-ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
-ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
-NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
-NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
-Fox Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
-Fox Sport 2,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
-Tennis,p3p://fccsen.dyndns.tv:29706/60b962030008c44344f88b155b45442f
-NFL Network,p3p://fccsen.dyndns.tv:29706/59bbf3f3000ef74f563dc29848a479f9
-NHL Network,p3p://fccsen.dyndns.tv:29706/5a4ae10a0001df28702715530b3e23dc
-CBS Sports,p3p://fccsen.dyndns.tv:29706/5a00e21b00058e784f1bc6f62dc403e6
-NBC Golf,p3p://fccsen.dyndns.tv:29706/5a6fa9f5000250ecffd7a5d26d0b1c97
-MLB Network,p3p://fccsen.dyndns.tv:29706/59bbf25c0002fe03563789ad321d31ef
-TSN 1,p3p://fccsen.dyndns.tv:29706/5d45b4440002e468d1b279875cc53184
-TSN 2,p3p://fccsen.dyndns.tv:29706/5d45b49f0004b838d1b3dd774be667a4
-TSN 3,p3p://fccsen.dyndns.tv:29706/5d45b529000804ebd1b5f9606eef3d87
-TSN 4,p3p://fccsen.dyndns.tv:29706/5d45b59600028129d1b7a1bf71b50a26
-TSN 5,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
-SportNet Onario,p3p://fccsen.dyndns.tv:29706/5a91a001000da01d8480975a091c2e97
-SportNet One,p3p://fccsen.dyndns.tv:29706/5a963c9e0005850496844a812ee772e1
-SportNet World,p3p://fccsen.dyndns.tv:29706/5bd63c310006787478800487439a602d
-SportNet 360,p3p://fccsen.dyndns.tv:29706/5a919d78000cca498476aff825dd1e95
-SportsNet Pacific,p3p://fccsen.dyndns.tv:29706/5a010fe5000bffa64fcea5b471a63932
-Sky Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
-Sky Sport 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
-Sky Sport 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
-Sky Sport 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
-Sky Sport 5,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
-Sky Sport F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
-Sky Sp Football,p3p://fccsen.dyndns.tv:29706/5da52b34000c1b45469ab71b318b6093
-Sky Sp Mix,p3p://fccsen.dyndns.tv:29706/5da52b4b0009e11d469b106164071071
-Sky Sp News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
-BT Sport 1,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
-BT Sport 2,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
-BT Sport 3,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
-Box Nation,p3p://fccsen.dyndns.tv:29706/5da88b680004bc7853ca80576e5749ab
-Boxing PPV,p3p://fccsen.dyndns.tv:29706/5bb2c40b00069f12edf2eebd5ee90f8e
-Sportsman,p3p://fccsen.dyndns.tv:29706/5bdb7bf8000ab3088d010e335cea74bd
-Outdoor Channel,p3p://fccsen.dyndns.tv:29706/5f09429b000cd96facff9af478c91021
-BTN,p3p://fccsen.dyndns.tv:29706/5aaf028100050fa9f74917ca7a3253ae
-SEC Network,p3p://fccsen.dyndns.tv:29706/5bc2b56600073def2c39a4ba2dc5036b
-LongHorn Network,p3p://fccsen.dyndns.tv:29706/5bc2b10500008a6d2c2888161d4270ba
-Euro Sport 1,p3p://fccsen.dyndns.tv:29706/5a21d4d80004d603cfcfc43c12066d47
-Euro Sport 2,p3p://fccsen.dyndns.tv:29706/5a21d4ed00032238cfd015d5794173ae
-MUTV,p3p://fccsen.dyndns.tv:29706/5f7b32e5000e762d6a11bc6c06985c05
-Bein Sport 1,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
-Bein Sport 2,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
-Bein Sport 3,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
-Bein Sport 4,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
-Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
-Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
-Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
-Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
 
 
