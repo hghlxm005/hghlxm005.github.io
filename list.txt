@@ -696,7 +696,17 @@ JJ斗地主,http://mrw.so/61DwWY
 JJ斗地主,http://mmitv.top:80/test/douyu.php?id=488743
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
 浦东电视,http://mywlkj.ddns.net:754/tv/pdtv.m3u8 
-
+河南卫视,https://3grzdnqjwfa3dkcbqgr4ur.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=19e8275e3952f9dd65b84fd563c75536&wsTime=1712553009
+河南都市,https://3grzdnqjwfa3dkcbqgr4uy.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=cc7695fe77d24e806e48a199f1a664a7&wsTime=1712554509
+河南民生,https://3grzdnqjwfa3dkcbqgr4ue.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=fc909ff5d4b0bc209d8c4feeef74c611&wsTime=1712554509
+河南法制,https://3grzdnqjwfa3dkcbqgr4ue.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=5ecc9cd599b4c195f5a886f8e9aa38a7&wsTime=1712554509
+河南公共,https://3grzdnqjwfa3dkcbqgr4uk.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=68c75021e47f2ce90285d1bd633826e8&wsTime=1712554509
+河南乡村,https://3grzdnqjwfa3dkcbqgr4ur.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=6e31e235c62dfcc19e9a42d5c5b13083&wsTime=1712554509
+河南电视剧,https://3grzdnqjwfa3dkcbqgr4un.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=f8a0ec4022e71b9d1044498a98d8e0bc&wsTime=1712554509
+河南国际,https://3grzdnqjwfa3dkcbqgr4uk.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=799931ffb0a836a5b845f86054b09db7&wsTime=1712554509
+河南武术频道,https://3grzdnqjwfa3dkcbqgr4uk.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=b5660efb73621cfb79b05d74e5362a7a&wsTime=1712554509
+晴彩中原,https://3grzdnqjwfa3dkcbqgr4ue.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=60a38d7811c2933e629e7b3bac40c419&wsTime=1712554509
+移动戏曲,https://3grzdnqjwfa3dkcbqgr4un.ourdvsss.com/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=990a5940fc0d97ac7933a20b5f110076&wsTime=1712554509
 
 
 
