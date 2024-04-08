@@ -707,7 +707,16 @@ JJ斗地主,http://159.75.85.63:35455/douyu/488743
 河南武术频道,https://3grzdnqjwfa3dkcbqgr4uk.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=b5660efb73621cfb79b05d74e5362a7a&wsTime=1712554509
 晴彩中原,https://3grzdnqjwfa3dkcbqgr4ue.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=60a38d7811c2933e629e7b3bac40c419&wsTime=1712554509
 移动戏曲,https://3grzdnqjwfa3dkcbqgr4un.ourdvsss.com/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=990a5940fc0d97ac7933a20b5f110076&wsTime=1712554509
-
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+海峡卫视,http://38.64.72.148/hls/modn/list/4009/chunklist1.m3u8
+长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist1.m3u8
+深圳卫视,http://38.64.72.148/hls/modn/list/4007/chunklist1.m3u8
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+华视,http://38.64.72.148/hls/modn/list/4003/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4002/chunklist1.m3u8
 
 
 
