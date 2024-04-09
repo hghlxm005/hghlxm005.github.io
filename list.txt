@@ -3290,7 +3290,14 @@ Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiq
 战觉城,http://123.115.116.115:4000/rtp/239.3.1.87:4120
 中国交通,http://218.241.192.50:8808/udp/239.3.1.188:8001
 足球之夜,http://123.115.116.115:4000/rtp/239.3.1.89:4120
-
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
+三立新闻台,https://www.youtube.com/watch?v=oZdzzvxTfUY
+凤凰卫视资讯台,https://www.youtube.com/watch?v=HFib76ySpbU
+寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
+东森新闻台,https://www.youtube.com/watch?v=2dfAzcDf8Zg
+TVBS News,https://www.youtube.com/watch?v=RVOrtMz-yGo
+台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
+民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 
 
