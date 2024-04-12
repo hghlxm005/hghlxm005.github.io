@@ -467,7 +467,7 @@ CHC动作电影,http://36.47.82.90:8010/rtp/239.112.205.207:5140
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 金马影院,http://mywlkj.ddns.net:754/tv/yximgs.php?id=65
-
+星河,http://113.64.145.61:8081/hls/135/index.m3u8
 
 
 
