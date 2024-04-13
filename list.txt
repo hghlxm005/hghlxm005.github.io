@@ -376,13 +376,16 @@ CHC高清电影,http://175.9.161.130:9999/udp/239.76.245.242:1234
 CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://61.150.11.216:4444/rtp/239.112.205.206:5140
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+CHC高清电影[1920x1080],http://113.245.217.76:9981/stream/channelid/1855297711?ticket=580105B186B0D2A1C63DA623DF67EDAC9778D4B8&profile=pass
 CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://175.9.161.130:9999/udp/239.76.245.241:1234
 CHC家庭影院,http://61.150.11.216:4444/rtp/239.112.205.205:5140
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+CHC家庭影院[1920x1080],http://113.245.217.76:9981/stream/channelid/974568441?ticket=D113AF82348F0F718AC4C016F1692918FC32B0F3&profile=pass
 CHC动作电影,http://175.9.161.130:9999/udp/239.76.245.243:1234
 CHC动作电影,http://61.150.11.216:4444/rtp/239.112.205.207:5140
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+CHC动作电影[1920x1080],http://113.245.217.76:9981/stream/channelid/522912553?ticket=D1FA5128716776BBA78FC0837BFBB9490B24C33A&profile=pass
 邵氏影院,http://mmitv.top:80/test/douyu.php?id=4246519
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 战争电影,https://live.metshop.top/yy/1382736865
