@@ -247,27 +247,8 @@ CCTV4K,http://119.138.51.82:2086/udp/239.77.0.174:5146
 JJ斗地主,http://mrw.so/61DwWY
 JJ斗地主,http://mmitv.top:80/test/douyu.php?id=488743
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
-民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist1.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
-海峡卫视,http://38.64.72.148/hls/modn/list/4009/chunklist1.m3u8
-长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist1.m3u8
-深圳卫视,http://38.64.72.148/hls/modn/list/4007/chunklist1.m3u8
-TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-华视,http://38.64.72.148/hls/modn/list/4003/chunklist1.m3u8
-http://38.64.72.148/hls/modn/list/4002/chunklist1.m3u8
-CHANNEL-V,http://171.213.37.127:4022/udp/239.93.0.157:2194
-CHANNEL-V,http://171.213.37.127:4022/udp/239.93.1.7:2194
-星空,http://171.213.37.127:4022/udp/239.93.1.10:2193
-星空,http://171.213.37.127:4022/udp/239.93.0.156:2193
-凤凰卫视中文,http://171.213.37.127:4022/udp/239.93.0.162:2192
-凤凰卫视中文,http://171.213.37.127:4022/udp/239.93.1.9:2192
-凤凰卫视咨询,http://171.213.37.127:4022/udp/239.93.0.118:2191
-凤凰卫视咨询,http://171.213.37.127:4022/udp/239.93.1.4:2191
 环球奇观,http://113.24.136.208:8084/udp/239.1.1.98:8098
 发现之旅,http://113.24.136.208:8084/udp/239.1.1.103:8103
-
 金鹰卡通,http://171.11.172.73:808/hls/91/index.m3u8
 嘉佳卡通,http://171.11.172.73:808/hls/92/index.m3u8
 卡酷动画,http://171.11.172.73:808/hls/93/index.m3u8
@@ -454,12 +435,19 @@ CHC动作电影,http://61.150.11.216:4444/rtp/239.112.205.207:5140
 
 
 📡港澳台电视台,#genre#
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文,http://nas.8211321.com:5555/rtp/239.61.2.184:9092
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
+凤凰卫视中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰卫视中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视中文,http://nas.8211321.com:5555/rtp/239.61.2.184:9092
+凤凰卫视中文,http://171.213.37.127:4022/udp/239.93.0.162:2192
+凤凰卫视中文,http://171.213.37.127:4022/udp/239.93.1.9:2192
+凤凰卫视咨询,http://171.213.37.127:4022/udp/239.93.0.118:2191
+凤凰卫视咨询,http://171.213.37.127:4022/udp/239.93.1.4:2191
+凤凰卫视资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰卫视资讯,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
+星空卫视,http://171.213.37.127:4022/udp/239.93.1.10:2193
+星空卫视,http://171.213.37.127:4022/udp/239.93.0.156:2193
+星空卫视,http://125.71.57.181:6066/udp/239.93.1.10:2193
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 澳门莲花,http://live.xfcs.ltd/omtv.php
 4k修复,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -481,6 +469,21 @@ TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt02/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt03/hls.m3u8
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+海峡卫视,http://38.64.72.148/hls/modn/list/4009/chunklist1.m3u8
+长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist1.m3u8
+深圳卫视,http://38.64.72.148/hls/modn/list/4007/chunklist1.m3u8
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+华视,http://38.64.72.148/hls/modn/list/4003/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4002/chunklist1.m3u8
+CHANNEL-V,http://125.71.57.181:6066/udp/239.93.1.7:2194
+CHANNEL-V,http://125.71.57.181:6066/udp/239.93.0.157:2194
+CHANNEL-V,http://171.213.37.127:4022/udp/239.93.0.157:2194
+CHANNEL-V,http://171.213.37.127:4022/udp/239.93.1.7:2194
+
 
 
 
