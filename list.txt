@@ -379,28 +379,11 @@ CCTV+5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 重温经典,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 轮播小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-CHC高清电影,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC高清电影,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226463/index.m3u8
-CHC高清电影,http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?icpid=88888888&from=20&ocs=2_39.134.18.71_80&hms_devid=8370&online=1711994431&vqe=3
-CHC高清电影,http://175.9.161.130:9999/udp/239.76.245.242:1234
 CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://61.150.11.216:4444/rtp/239.112.205.206:5140
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC高清电影,http://113.245.217.76:9981/stream/channelid/1855297711?ticket=580105B186B0D2A1C63DA623DF67EDAC9778D4B8&profile=pass
-CHC家庭影院,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC家庭影院,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC家庭影院,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?icpid=88888888&from=20&ocs=2_39.134.18.69_80&hms_devid=8368&online=1711994000&vqe=3
 CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://175.9.161.130:9999/udp/239.76.245.241:1234
 CHC家庭影院,http://61.150.11.216:4444/rtp/239.112.205.205:5140
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-CHC家庭影院,http://113.245.217.76:9981/stream/channelid/974568441?ticket=D113AF82348F0F718AC4C016F1692918FC32B0F3&profile=pass
-CHC动作电影,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC动作电影,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226465/index.m3u8
-CHC动作电影,http://175.9.161.130:9999/udp/239.76.245.243:1234
 CHC动作电影,http://61.150.11.216:4444/rtp/239.112.205.207:5140
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-CHC动作电影,http://113.245.217.76:9981/stream/channelid/522912553?ticket=D1FA5128716776BBA78FC0837BFBB9490B24C33A&profile=pass
 邵氏影院,http://mmitv.top:80/test/douyu.php?id=4246519
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 战争电影,https://live.metshop.top/yy/1382736865
@@ -473,11 +456,9 @@ CHC动作电影,http://113.245.217.76:9981/stream/channelid/522912553?ticket=D1F
 📡港澳台电视台,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文,http://183.141.197.192:58888/rtp/233.50.200.191:5140
 凤凰中文,http://nas.8211321.com:5555/rtp/239.61.2.184:9092
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯,http://183.141.197.192:58888/rtp/233.50.200.192:5140
 凤凰资讯,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 澳门莲花,http://live.xfcs.ltd/omtv.php
@@ -496,7 +477,10 @@ CHC动作电影,http://113.245.217.76:9981/stream/channelid/522912553?ticket=D1F
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 金马影院,http://mywlkj.ddns.net:754/tv/yximgs.php?id=65
 星河,http://113.64.145.61:8081/hls/135/index.m3u8
-
+TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+中天新闻,http://66.165.240.154:8080/live/ztylt02/hls.m3u8
+中天新闻,http://66.165.240.154:8080/live/ztylt03/hls.m3u8
 
 
 
