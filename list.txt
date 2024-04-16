@@ -602,7 +602,9 @@ CHC动作电影,http://118.254.159.7:8888/udp/239.76.245.243:1234
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 金马影院,http://mywlkj.ddns.net:754/tv/yximgs.php?id=65
 星河,http://113.64.145.61:8081/hls/135/index.m3u8
+TVBS,http://ali.hlspull.yximgs.com:80/live/0c57523960687b316d2fd8a16c2f0354.flv
 TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+中天新闻,http://ali.hlspull.yximgs.com:80/live/481e09a40a702bd8cb060ef9eb810eaf.flv
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt02/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt03/hls.m3u8
@@ -620,6 +622,7 @@ CHANNEL-V,http://125.71.57.181:6066/udp/239.93.1.7:2194
 CHANNEL-V,http://125.71.57.181:6066/udp/239.93.0.157:2194
 CHANNEL-V,http://171.213.37.127:4022/udp/239.93.0.157:2194
 CHANNEL-V,http://171.213.37.127:4022/udp/239.93.1.7:2194
+寰宇新闻,http://ali.hlspull.yximgs.com:80/live/68633ee03e842665b26adbc16167c077.flv
 
 
 
