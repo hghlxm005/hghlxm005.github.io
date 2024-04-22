@@ -498,6 +498,7 @@ BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 
 
 📡综合频道,#genre#
+破墓,https://leshiyuncdn.36s.top/20240421/tZUOqbw5/index.m3u8
 JJ斗地主,http://mrw.so/61DwWY
 JJ斗地主,http://mmitv.top:80/test/douyu.php?id=488743
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
