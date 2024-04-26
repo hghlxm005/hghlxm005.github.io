@@ -673,6 +673,52 @@ JJ斗地主,http://159.75.85.63:35455/douyu/488743
 
 
 
+📡未知频道👉,#genre#
+Unknown_51,rtmp://220.130.201.73/sat/tv051
+Unknown_71,rtmp://220.130.201.73/sat/tv071
+Unknown_111,rtmp://220.130.201.73/sat/tv111
+Unknown_331,rtmp://220.130.201.73/sat/tv331
+Unknown_581,rtmp://220.130.201.73/sat/tv581
+Unknown_701,rtmp://220.130.201.73/sat/tv701
+Unknown_721,rtmp://220.130.201.73/sat/tv721
+Unknown_731,rtmp://220.130.201.73/sat/tv731
+Unknown_741,rtmp://220.130.201.73/sat/tv741
+Unknown_761,rtmp://220.130.201.73/sat/tv761
+Unknown_771,rtmp://220.130.201.73/sat/tv771
+Unknown_3048,rtmp://f13h.mine.nu/sat/tv051
+Unknown_3068,rtmp://f13h.mine.nu/sat/tv071
+Unknown_3088,rtmp://f13h.mine.nu/sat/tv091
+Unknown_3108,rtmp://f13h.mine.nu/sat/tv111
+Unknown_3328,rtmp://f13h.mine.nu/sat/tv331
+Unknown_3578,rtmp://f13h.mine.nu/sat/tv581
+Unknown_3698,rtmp://f13h.mine.nu/sat/tv701
+Unknown_3728,rtmp://f13h.mine.nu/sat/tv731
+Unknown_3738,rtmp://f13h.mine.nu/sat/tv741
+Unknown_3758,rtmp://f13h.mine.nu/sat/tv761
+Unknown_3768,rtmp://f13h.mine.nu/sat/tv771
+Unknown_4996,http://61.221.215.25:8800/hls/1/index.m3u8
+Unknown_5004,http://61.221.215.25:8800/hls/9/index.m3u8
+Unknown_5034,http://61.221.215.25:8800/hls/39/index.m3u8
+Unknown_5035,http://61.221.215.25:8800/hls/40/index.m3u8
+Unknown_5036,http://61.221.215.25:8800/hls/41/index.m3u8
+Unknown_5038,http://61.221.215.25:8800/hls/43/index.m3u8
+Unknown_5040,http://61.221.215.25:8800/hls/45/index.m3u8
+Unknown_5041,http://61.221.215.25:8800/hls/46/index.m3u8
+Unknown_5042,http://61.221.215.25:8800/hls/47/index.m3u8
+Unknown_5043,http://61.221.215.25:8800/hls/48/index.m3u8
+Unknown_5044,http://61.221.215.25:8800/hls/49/index.m3u8
+Unknown_5045,http://61.221.215.25:8800/hls/50/index.m3u8
+Unknown_5046,http://61.221.215.25:8800/hls/51/index.m3u8
+Unknown_5049,http://61.221.215.25:8800/hls/54/index.m3u8
+Unknown_5050,http://61.221.215.25:8800/hls/55/index.m3u8
+Unknown_5051,http://61.221.215.25:8800/hls/56/index.m3u8
+Unknown_5052,http://61.221.215.25:8800/hls/57/index.m3u8
+Unknown_5053,http://61.221.215.25:8800/hls/58/index.m3u8
+Unknown_7005,http://104.233.187.235/php/channelinfo.php?id=13012
+Unknown_7015,http://104.233.187.235/php/channelinfo.php?id=13022
+Unknown_7023,http://104.233.187.235/php/channelinfo.php?id=13030
+Unknown_7041,http://104.233.187.235/php/channelinfo.php?id=13048
+
 
 
 
@@ -958,6 +1004,85 @@ DAZN 2,rtmp://220.130.201.73/sat/tv741
 EF运通,http://66.165.240.154:8080/live/gatEF01/hls.m3u8
 大爱,http://66.165.240.154:8080/live/gatda201/hls.m3u8
 超视,http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
+14,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+天映电影,http://171.108.239.72:8181/tsfile/live/1009_1.m3u8
+龙祥电影,http://171.108.239.72:8181/tsfile/live/1011_1.m3u8
+中国电影,http://171.108.239.72:8181/tsfile/live/1013_1.m3u8
+东森洋片,http://171.108.239.72:8181/tsfile/live/1016_1.m3u8
+大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
+大爱2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+中国寰球,http://live.cgtn.com/500/prog_index.m3u8
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+好消息2台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
+耀才财经台,https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+discovery channel hd,https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d6c822c33094a27c8462eadb6ae3.m3u8
+纬来体育HD,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+耀才财经台,https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8
+耀才财经台,https://epg.pw/stream/72e6d938d023bbb1ad2c783c86273475d217a32541d77fb5c4113cfe7ae02b2b.m3u8
+hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
+凤凰电影,https://epg.pw/stream/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
+LOVE NATURE,https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
+耀才财经台,https://epg.pw/stream/22c49293812a53154c679325dd65258944d73c180c1c47d19ac3a339ce95292b.m3u8
+GOODTV刘三讲古HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+RTHK 34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+RTHK 34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+25,https://tv.cry33.com/ys4k.php?id=8k
+31,http://europa-crtvg.flumotion.com/playlist.m3u8
+大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+八大戲劇台HD,http://61.221.215.25:8800/hls/39/index.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+道真新闻综合,http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
+松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+Now星影频道,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+凤凰中文频道,http://113.64.145.195:8081/hls/37/index.m3u8
+经典影视台1,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
+经典影视台2,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+美亚电视C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
+CCTV卫生健康,http://120.79.4.185/md0425.php?id=wsjk
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+东森电影,http://171.108.239.72:8181/tsfile/live/1010_1.m3u8
+台湾民视,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
+华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
+民视,rtmp://f13h.mine.nu/sat/tv051
+华视,rtmp://f13h.mine.nu/sat/tv111
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+凤凰资讯高清,http://113.64.145.195:8081/hls/36/index.m3u8
 
 
 
