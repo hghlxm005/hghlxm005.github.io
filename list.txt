@@ -544,6 +544,7 @@ CCTV-16 4K,http://222.241.146.86:8888/udp/239.76.254.200:1234
 
 📡综合频道,#genre#
 破墓,https://leshiyuncdn.36s.top/20240421/tZUOqbw5/index.m3u8
+第二十一条,https://yzzy1.play-cdn1.com/20240426/45623_596f7554/index.m3u8
 JJ斗地主,http://mrw.so/61DwWY
 JJ斗地主,http://mmitv.top:80/test/douyu.php?id=488743
 JJ斗地主,http://159.75.85.63:35455/douyu/488743
