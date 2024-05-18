@@ -937,50 +937,50 @@ SiTV游戏风云,http://123.160.201.147:2000/rtp/239.16.20.112:11120
 
 
 📡未知频道👉,#genre#
-Unknown_51,rtmp://220.130.201.73/sat/tv051
-Unknown_71,rtmp://220.130.201.73/sat/tv071
-Unknown_111,rtmp://220.130.201.73/sat/tv111
-Unknown_331,rtmp://220.130.201.73/sat/tv331
-Unknown_581,rtmp://220.130.201.73/sat/tv581
-Unknown_701,rtmp://220.130.201.73/sat/tv701
-Unknown_721,rtmp://220.130.201.73/sat/tv721
-Unknown_731,rtmp://220.130.201.73/sat/tv731
-Unknown_741,rtmp://220.130.201.73/sat/tv741
-Unknown_761,rtmp://220.130.201.73/sat/tv761
-Unknown_771,rtmp://220.130.201.73/sat/tv771
-Unknown_3048,rtmp://f13h.mine.nu/sat/tv051
-Unknown_3068,rtmp://f13h.mine.nu/sat/tv071
-Unknown_3088,rtmp://f13h.mine.nu/sat/tv091
-Unknown_3108,rtmp://f13h.mine.nu/sat/tv111
-Unknown_3328,rtmp://f13h.mine.nu/sat/tv331
-Unknown_3578,rtmp://f13h.mine.nu/sat/tv581
-Unknown_3698,rtmp://f13h.mine.nu/sat/tv701
-Unknown_3728,rtmp://f13h.mine.nu/sat/tv731
-Unknown_3738,rtmp://f13h.mine.nu/sat/tv741
-Unknown_3758,rtmp://f13h.mine.nu/sat/tv761
+民视,rtmp://220.130.201.73/sat/tv051
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://220.130.201.73/sat/tv071
+台视,rtmp://f13h.mine.nu/sat/tv071
+华视,rtmp://220.130.201.73/sat/tv111
+华视,rtmp://f13h.mine.nu/sat/tv111
+东森超视,rtmp://220.130.201.73/sat/tv331
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+非凡新闻,rtmp://220.130.201.73/sat/tv581
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+纬来音乐,rtmp://220.130.201.73/sat/tv701
+纬来音乐,rtmp://f13h.mine.nu/sat/tv701
+纬来体育,rtmp://220.130.201.73/sat/tv721
+DAZN1,rtmp://220.130.201.73/sat/tv731
+DAZN1,rtmp://f13h.mine.nu/sat/tv731
+DAZN2,rtmp://220.130.201.73/sat/tv741
+DAZN2,rtmp://f13h.mine.nu/sat/tv741
+MOMOTV,rtmp://220.130.201.73/sat/tv761
+MOMOTV,rtmp://f13h.mine.nu/sat/tv761
+纬来日本,rtmp://220.130.201.73/sat/tv771
+中视,rtmp://f13h.mine.nu/sat/tv091
 Unknown_3768,rtmp://f13h.mine.nu/sat/tv771
 Unknown_4996,http://61.221.215.25:8800/hls/1/index.m3u8
-Unknown_5004,http://61.221.215.25:8800/hls/9/index.m3u8
-Unknown_5034,http://61.221.215.25:8800/hls/39/index.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 Unknown_5035,http://61.221.215.25:8800/hls/40/index.m3u8
-Unknown_5036,http://61.221.215.25:8800/hls/41/index.m3u8
-Unknown_5038,http://61.221.215.25:8800/hls/43/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 Unknown_5040,http://61.221.215.25:8800/hls/45/index.m3u8
 Unknown_5041,http://61.221.215.25:8800/hls/46/index.m3u8
-Unknown_5042,http://61.221.215.25:8800/hls/47/index.m3u8
-Unknown_5043,http://61.221.215.25:8800/hls/48/index.m3u8
+凤凰卫视咨询台,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 Unknown_5044,http://61.221.215.25:8800/hls/49/index.m3u8
 Unknown_5045,http://61.221.215.25:8800/hls/50/index.m3u8
-Unknown_5046,http://61.221.215.25:8800/hls/51/index.m3u8
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 Unknown_5049,http://61.221.215.25:8800/hls/54/index.m3u8
-Unknown_5050,http://61.221.215.25:8800/hls/55/index.m3u8
-Unknown_5051,http://61.221.215.25:8800/hls/56/index.m3u8
-Unknown_5052,http://61.221.215.25:8800/hls/57/index.m3u8
-Unknown_5053,http://61.221.215.25:8800/hls/58/index.m3u8
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+LISTEN ON SPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
 Unknown_7005,http://104.233.187.235/php/channelinfo.php?id=13012
 Unknown_7015,http://104.233.187.235/php/channelinfo.php?id=13022
-Unknown_7023,http://104.233.187.235/php/channelinfo.php?id=13030
-Unknown_7041,http://104.233.187.235/php/channelinfo.php?id=13048
+民视,http://104.233.187.235/php/channelinfo.php?id=13030
+民视,http://104.233.187.235/php/channelinfo.php?id=13048
 
 
 
