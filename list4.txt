@@ -146,6 +146,10 @@
 韩国太妍39,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+
+
+
+韩国歌团,#genre#
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
@@ -296,4 +300,52 @@
 歌团★151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
 歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
 歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+
+
+
+酷狗Mv,#genre#
+酷狗Mv-周杰伦
+周杰伦 - 兰亭序,https://cfss.cc/api/kg/B4567BE61EADF9D0A872B194ADDEBA52.mp4
+周杰伦 - 晴天,https://cfss.cc/api/kg/3B1F32C55F9774501794213C09168A18.mp4
+周杰伦 - 稻香,https://cfss.cc/api/kg/FE06D19D564ECF0A16FC72447E1E82E5.mp4
+周杰伦 - 夜曲,https://cfss.cc/api/kg/FEFD599DF8886873B5708562CFFF4D43.mp4
+周杰伦 - 青花瓷,https://cfss.cc/api/kg/F973F02AEDA7F6B0F90F0872F27F040E.mp4
+周杰伦 - 说好的幸福呢,https://cfss.cc/api/kg/230DF039446EB997C9331F7D6CE8CB98.mp4
+周杰伦 - 七里香,https://cfss.cc/api/kg/93C8E52BFF734A3CD8C035191670A6DF.mp4
+周杰伦 - 一路向北 - 《头文字D》电影插曲,https://cfss.cc/api/kg/7FB544FD5B92B47C00B45D43C2A88E8B.mp4
+周杰伦 - 蒲公英的约定,https://cfss.cc/api/kg/D64FED58CB27EDFC59807C825794AA4B.mp4
+周杰伦 - 明明就,https://cfss.cc/api/kg/9EA4E61A507F425733F8A13E30F5A076.mp4
+周杰伦 - 枫,https://cfss.cc/api/kg/22C0DB7BD97520673D10CB79C90A0B6B.mp4
+恒俞TRAVIS - 周杰伦《兰亭序》夕阳余晖，如你的羞怯似醉,https://cfss.cc/api/kg/11BDA5505AC8A2F37422157D57D89A2F.mp4
+周杰伦 - 花海,https://cfss.cc/api/kg/92D6EE9DE3B3129AB748063B9F1AD068.mp4
+周杰伦 - 告白气球,https://cfss.cc/api/kg/1B43BAAF79C20489C85DEF55E2BA7AF0.mp4
+周杰伦 - 听妈妈的话,https://cfss.cc/api/kg/7D76F88D36D2BA1B19E8CA9F627872F1.mp4
+周杰伦 - 最伟大的作品 / Greatest Works of Art,https://cfss.cc/api/kg/476E84590D6D14E2C9B3603F9555770C.mp4
+周杰伦 - 我落泪情绪零碎,https://cfss.cc/api/kg/38F76ABBDB7096D3887F3A41BAB205EB.mp4
+周杰伦 - 东风破,https://cfss.cc/api/kg/A487D4F8245034FBF783537AAAECE66E.mp4
+周杰伦 - 反方向的钟,https://cfss.cc/api/kg/DCE82EC38E9FBA0CF51B4ED45EB1485B.mp4
+肄业 - 周杰伦春晚现场（2004-2021年）一起回顾，祝大家新春快乐,https://cfss.cc/api/kg/0F7AAFA5B724D91DC5FE663B5FC39458.mp4
+
+酷狗Mv-赵雷
+赵雷、中国好歌曲 - 画 - 2014中国好歌曲第一季第四期现场,https://cfss.cc/api/kg/E23AA7DCE5CD3A578769DF1933C7B53B.mp4
+赵雷 - 成都,https://cfss.cc/api/kg/058F38E4C2512D81374048EABA7EDA20.mp4
+圣凤凰 - 赵雷 我是歌手 成都 完整记录片,https://cfss.cc/api/kg/C64FE532CCB8BEC1D9938B5C8798C6BA.mp4
+赵雷 - 鼓楼 - 2016简单生活音乐节现场,https://cfss.cc/api/kg/C8F7C057B75258E66628C2043D623C54.mp4
+赵雷 - 青春无处安放,https://cfss.cc/api/kg/DC8908F7285B50449EEA928B31ACE997.mp4
+赵雷 - 成都 - 微电影版,https://cfss.cc/api/kg/502DEA295D4BCEB8AC94C1AD395B7C4B.mp4
+莪芣乖 - 赵雷《南方姑娘》大合唱泪目，超感动！,https://cfss.cc/api/kg/7E497234B9F36F913B249DA77C8E800A.mp4
+赵雷 - 鼓楼 - 现场版,https://cfss.cc/api/kg/1387054E36D03B338ECBECB7E9EA9E4B.mp4
+赵雷 - 我们的时光,https://cfss.cc/api/kg/860083E892583494E4AF706F835079C4.mp4
+赵雷、中国好歌曲 - 画 - 2014中国好歌曲第一季第七期现场,https://cfss.cc/api/kg/46F0227D9544A02A830A38BD189C306B.mp4
+孤山 - 赵雷吉他弹唱《画》，用歌声画出他的理想世界,https://cfss.cc/api/kg/4912072D18A07E27D4BB03DD79540175.mp4
+赵雷 - 我们的时光 - live,https://cfss.cc/api/kg/2665754B4D1E5BB7E8A2EB5BD6165DE6.mp4
+赵雷、大事发声·录音棚现场 - 鼓楼 - 大事发声·录音棚现场,https://cfss.cc/api/kg/A18D8900B47816C0A1D16BF809595677.mp4
+赵雷 - 南方姑娘 - 现场版,https://cfss.cc/api/kg/1FE40703D798B42A2B4CA3A5216C5372.mp4
+赵雷、我是歌手 - 三十岁的女人 - 歌手2017 第六期,https://cfss.cc/api/kg/77DA5D819F8AD545D95931410DA4A11C.mp4
+傲视天下 - 教室深情翻唱：赵雷《我记得》（45秒后夺走你的三连）,https://cfss.cc/api/kg/0FB1CC61B1EA6D66306FFE8DAE7A3E83.mp4
+浅唱内段情 - 一个连央视都救不活的节目却诞生了无数的神曲！,https://cfss.cc/api/kg/95FA8B5BB6EED30385F2BFECAD6ADEF2.mp4
+豆豆果 - 赵雷《我记得》饭制版,https://cfss.cc/api/kg/A56C053621478209466F0747AC82765C.mp4
+赵雷 - 成都 - 现场版,https://cfss.cc/api/kg/339BF0BB55D6D98AAAEA98CE5E82387C.mp4
+啊是倒 - 她在《我是歌手》上唱的一首《阿刁》唱尽了对人生的不甘！,https://cfss.cc/api/kg/6947EA5D2728FEBC27772AED2E17FF82.mp4
+
 
