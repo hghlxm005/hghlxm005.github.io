@@ -1514,7 +1514,7 @@ Now beIN SPORTS 3,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
 Now 668,http://php.jdshipin.com:8880/xsj.php?id=now-668
 Now Golf 2,http://php.jdshipin.com:8880/xsj.php?id=now-golf2
 Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=now-golf3
-台湾综合,#genre#
+
 民视,http://php.jdshipin.com:8880/xsj.php?id=ftv
 民视台湾台,http://php.jdshipin.com:8880/xsj.php?id=ftv-tw
 民视第一台,http://php.jdshipin.com:8880/xsj.php?id=ftv-one
