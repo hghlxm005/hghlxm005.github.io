@@ -1652,7 +1652,7 @@ Boo,http://php.jdshipin.com:8880/xsj.php?id=boo
 MTVLive,http://php.jdshipin.com:8880/xsj.php?id=mtvlive
 Bernama,http://php.jdshipin.com:8880/xsj.php?id=bernama
 Moonbug,http://php.jdshipin.com:8880/xsj.php?id=moonbug
-新加坡StarHub系列,#genre#
+
 Hub都会,http://php.jdshipin.com:8880/xsj.php?id=HubECity
 Hub娱家,http://php.jdshipin.com:8880/xsj.php?id=HubVVDrama
 HubSports 1,http://php.jdshipin.com:8880/xsj.php?id=hubsports1
@@ -1739,7 +1739,7 @@ TRACE Sport Stars,http://php.jdshipin.com:8880/xsj.php?id=trace-sport-stars
 W-Sport,http://php.jdshipin.com:8880/xsj.php?id=w-sport
 PremierSports,http://php.jdshipin.com:8880/xsj.php?id=premiersports
 智林体育台,http://php.jdshipin.com:8880/xsj.php?id=zl-sports
-欧美频道,#genre#
+
 新时代电视,http://php.jdshipin.com:8880/xsj.php?id=fairchildtv
 新时代电视二台,http://php.jdshipin.com:8880/xsj.php?id=fairchildtv2
 城市电视,http://php.jdshipin.com:8880/xsj.php?id=talentvisiontv
