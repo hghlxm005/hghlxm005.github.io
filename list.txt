@@ -126,12 +126,14 @@ CCTV4K,http://222.85.69.6/PLTV/88888888/224/3221227244/index.m3u8
 广东卫视4K,http://123.160.108.15:6610/PLTV1/190142/1.m3u8?
 CCTV4K,http://123.160.108.7:6410/PLTV1/190059/1.m3u8?
 河南卫视4k, http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
-4K超清,http://221.220.134.66:8012/rtp/239.3.1.249:8001
-爱上4K,http://221.220.134.66:8012/rtp/239.3.1.236:2000
+
 📡电影频道,#genre#
 CHC家庭影院,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC家庭影院,http://183.188.159.227:7000/rtp/226.0.2.240:9820
 CHC动作电影,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
+CHC动作电影,http://183.188.159.227:7000/rtp/226.0.2.94:8012.188.159.227:7000/rtp/226.0.2.93:8004
 CHC影迷电影,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
+CHC影迷电影,http://183.188.159.227:7000/rtp/226.0.2.93:8004
 峨眉电影4K,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 重温经典,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 成都影视,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
