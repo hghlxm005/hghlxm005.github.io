@@ -1,59 +1,59 @@
 📡央视频道,#genre#
 CCTV-1,http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8
-CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1.m3u8?auth=testpub
-CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1.m3u8?auth=test20251009
+CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-2,http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
-CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2.m3u8?auth=testpub
-CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2.m3u8?auth=test20251009
+CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3,http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
-CCTV-3,http://38.75.136.137:98/gslb/dsdqpub/cctv3.m3u8?auth=testpub
-CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3.m3u8?auth=test20251009
+CCTV-3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://118.122.144.115:8888/newlive/live/hls/4/live.m3u8
-CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4.m3u8?auth=testpub
-CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4.m3u8?auth=test20251009
+CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,http://118.122.144.115:8888/newlive/live/hls/5/live.m3u8
-CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5.m3u8?auth=testpub
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5.m3u8?auth=test20251009
+CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5+,http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
 CCTV-5+ ,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV-5+ ,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,http://118.122.144.115:8888/newlive/live/hls/6/live.m3u8
-CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6.m3u8?auth=testpub
-CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6.m3u8?auth=test20251009
+CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-7,http://118.122.144.115:8888/newlive/live/hls/7/live.m3u8
-CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7.m3u8?auth=testpub
-CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7.m3u8?auth=test20251009
+CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,http://118.122.144.115:8888/newlive/live/hls/8/live.m3u8
-CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8.m3u8?auth=testpub
-CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8.m3u8?auth=test20251009
+CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://118.122.144.115:8888/newlive/live/hls/9/live.m3u8
-CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9.m3u8?auth=testpub
-CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9.m3u8?auth=test20251009
+CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-10,http://118.122.144.115:8888/newlive/live/hls/10/live.m3u8
-CCTV-10,http://38.75.136.137:98/gslb/dsdqpub/cctv10.m3u8?auth=testpub
-CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10.m3u8?auth=test20251009
+CCTV-10,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-11,http://118.122.144.115:8888/newlive/live/hls/11/live.m3u8
-CCTV-11,http://38.75.136.137:98/gslb/dsdqpub/cctv11.m3u8?auth=testpub
-CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11.m3u8?auth=test20251009
+CCTV-11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-12,http://118.122.144.115:8888/newlive/live/hls/12/live.m3u8
-CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12.m3u8?auth=testpub
-CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12.m3u8?auth=test20251009
+CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13,http://118.122.144.115:8888/newlive/live/hls/13/live.m3u8
-CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13.m3u8?auth=testpub
-CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13.m3u8?auth=test20251009
+CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14,http://118.122.144.115:8888/newlive/live/hls/14/live.m3u8
-CCTV-14,http://38.75.136.137:98/gslb/dsdqpub/cctv14.m3u8?auth=testpub
-CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14.m3u8?auth=test20251009
+CCTV-14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,http://118.122.144.115:8888/newlive/live/hls/15/live.m3u8
-CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15.m3u8?auth=testpub
-CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15.m3u8?auth=test20251009
-CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16.m3u8?auth=testpub
-CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16.m3u8?auth=test20251009
+CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-17,http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8
-CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17.m3u8?auth=testpub
-CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17.m3u8?auth=test20251009
-CCTV-4K 超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV-8K 超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV-4K 超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv4khd.m3u8?auth=testpub
+CCTV-8K 超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8khd.m3u8?auth=testpub
 中央新影 - 老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 中央新影 - 发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 中国教育 1,http://38.75.136.137:98/gslb/dsdqpub/cetv1.m3u8?auth=testpub
@@ -172,9 +172,9 @@ CCTV4K,http://123.160.108.7:6410/PLTV1/190059/1.m3u8?
 河南卫视4k, http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
 
 📡电影频道,#genre#
-CHC 动作电影,http://38.75.136.137:98/gslb/dsdqpub/chc.m3u8?auth=testpub
-CHC 家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC 影迷电影,http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
+CHC 动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC 家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC 影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 成龙电影,http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
