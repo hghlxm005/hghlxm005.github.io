@@ -206,6 +206,68 @@ CCTV5+,http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
 文化旅游,http://118.122.144.115:8888/newlive/live/hls/35/live.m3u8
 四川文化旅游,http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
 
+📡节目源三,#genre#
+
+无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+千禧经典台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+Asstr欢喜台,https://cdn9.163189.xyz/smt3.1.1.php?id=Huahee
+无线翡翠,https://cdn9.163189.xyz/smt3.1.1.php?id=jade_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线明珠频英,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
+凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+天映频道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+天文AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+VIUTV,https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
+凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+无线千禧,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
+天映经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
+无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
+无线娱乐,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbentertainment
+无线华丽,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
+加综合,https://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
+天文台,https://cdn9.163189.xyz/smt3.1.1.php?id=Aodhd
+星体-AeC,https://cdn9.163189.xyz/smt3.1.1.php?id=AEC
+香港电台-31,https://cdn9.163189.xyz/smt3.1.1.php?id=rhk31_twn
+香港电台-32,https://cdn9.163189.xyz/smt3.1.1.php?id=rhk32_twn
+星体季刊,https://cdn9.163189.xyz/smt3.1.1.php?id=全佳
+VIUTV2,https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
+星,https://cdn9.163189.xyz/smt3.1.1.php?id=Qiyi
+无线娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+TVB娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+翡翠台2,http://v2h.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+华丽翡翠台2,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+无线新闻台2,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+澳视卫星,http://v2h.veryfast.filegear-sg.me/live/as/stream.m3u8
+龙华洋片,http://v2h.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+龙华戏剧,http://v2h.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+龙华日韩,http://v2h.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+龙华偶像,http://v2h.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+龙华卡通,http://v2h.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+龙华经典,http://v2h.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+龙华电影,http://v2h.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+八度空间,http://v2h.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+重温经典,http://v2h.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+澳视澳门,http://v2h.veryfast.filegear-sg.me/live/asam/stream.m3u8
+凤凰香港2,http://v2h.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+凤凰中文2,http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+凤凰资讯2,http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+翡翠台4K,http://v2h.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+TVB星河2,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+明珠台,http://v2h.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+翡翠台3,http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
+TVB Plus,http://v2h.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+HOY 77,http://v2h.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+TVBJ1,http://v2h.veryfast.filegear-sg.me/live/j1/stream.m3u8
+TVB1,http://v2h.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+第五频道,http://v2h.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+CH8,http://v2h.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+CHU,http://v2h.veryfast.filegear-sg.me/live/chu/stream.m3u8
 
 📡4K频道,#genre#
 东方卫视,http://222.85.69.6/PLTV/88888888/224/3221227271/index.m3u8
