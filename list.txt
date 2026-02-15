@@ -306,8 +306,23 @@ CCTV4K,http://123.160.108.7:6410/PLTV1/190059/1.m3u8?
 CHC 动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC 家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC 影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+
+CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8?txiptv&amp;playlive
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC家庭影院,http://ak6668768.zicp.io:8844/live1046.m3u8
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
+CHC家庭影院,http://27.41.245.32:801/hls/905/index.m3u8
+CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CHC影迷电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
+
+峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
+
 成龙电影,http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
 周润发电影,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 周星驰电影,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
@@ -317,16 +332,17 @@ CHC 影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 电影台,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
-淘娱乐,http://45.207.208.137:5000/live?url=http%3A//114.250.20.108%3A4022/rtp/239.3.1.100%3A8001&token=x6wang
-淘萌宠,http://45.207.208.137:5000/live?url=http%3A//114.250.20.108%3A4022/rtp/239.3.1.102%3A8001&token=x6wang
-淘BABY,http://45.207.208.137:5000/live?url=http%3A//114.250.20.108%3A4022/rtp/239.3.1.238%3A8001&token=x6wang
-淘电影,http://45.207.208.137:5000/live?url=http%3A//114.250.20.108%3A4022/rtp/239.3.1.250%3A8001&token=x6wang
-淘剧场,http://45.207.208.137:5000/live?url=http%3A//114.250.20.108%3A4022/rtp/239.3.1.95%3A8001&token=x6wang
-重温经典1,http://45.207.208.137:5000/live?url=http%3A//114.250.20.108%3A4022/rtp/239.3.1.25%3A8001&token=x6wang
-北京IPTV 4K,http://45.207.208.137:5000/live?url=http%3A//114.250.20.108%3A4022/rtp/239.3.1.139%3A8001&token=x6wang
-CHC家庭影院高清,http://45.207.208.137:5000/live?url=http%3A//175.152.101.77%3A8888/rtp/239.0.0.23%3A5140&token=x6wang
-CHC动作影院高清,http://45.207.208.137:5000/live?url=http%3A//175.152.101.77%3A8888/rtp/239.0.0.24%3A5140&token=x6wang
-CHC高清影院高清,http://45.207.208.137:5000/live?url=http%3A//175.152.101.77%3A8888/rtp/239.0.0.25%3A5140&token=x6wang
+龍華电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+周润发电影,http://222.186.39.38:8000/587078/index.m3u8
+华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
+AMC米高梅电影,http://148.113.160.49:14207/
+邵氏电影台,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
+莱德电影,https://live.iill.top/huya/25105529
+星卫电影台,https://k0udeyd8ye5y1czw240ex951x2c10x5302xx1cz.djvod.ndcimgs.com/bs3/video-hls/5240782769998279315_5b89d96c2cad3de2_4681_hlsb.m3u8?x-ks-ptid=178957423116&amp;x-kcdn-pid=12021&amp;kwai-not-alloc=self-cdn&amp;kcdntag=p:Guangdong;i:ChinaTelecom;ft:UNKNOWN;h:UNKNOWN;pn:webserverHls&amp;ocid=63&amp;ss=vpm
+成龙电影院,https://yylunbo.ottiptv.cc/yy/1382736841
+
+
 
 
 📡河南移动IPTV,#genre#
